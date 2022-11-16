@@ -1,0 +1,533 @@
+_record_id,_title,_server_updated_at,_updated_by,_geometry,_latitude,_longitude,arrival_of_the_freight_vehicle,plates,company_if_visible,visit_purpose,type_of_vehicle,number_of_operators,refrigerated_truck,type_of_cargo,picture_of_the_parked_freight_vehicle,departure_of_the_freight_vehicle,where_was_the_vehicle_parked,while_parked_was_the_engine_running,used_traffic_cone,vehicles_unloading_door,number_of_available_trolleys,serving_customer,garage_blocking,accident,describe_the_accident,noise,traffic_congestion,maximum_number_of_vehicles_in_the_traffic_jam
+4408a234-9585-46fe-9b16-96c0faaf6db8,"73 Calle Almolonga
+Puebla de Zaragoza PUE 72160
+MX",2022-11-12 22:15:04 UTC,Salomon Abdala Perez,SRID=4326;POINT(-98.2334894708 19.0568933787),19.05689338,-98.23348947,14:00,KB-7050-A,Ricolino,Delivery,Light truck or Van,1,no,"""Bakery (bread, cookies, cakes, etc.)""",https://web.fulcrumapp.com/photos/view?photos=aaca78a2-7a7f-4add-82c9-2168f1091faa,14:10,Street - next to the curbside,no,no,Side,1,,yes,no,,no,no,
+673cd0e3-7290-4c4d-a57f-096d16b78141,"72 Calle Almolonga
+Puebla de Zaragoza PUE 72160
+MX",2022-11-12 20:41:39 UTC,Jorge Alberto Ostorga Flores,SRID=4326;POINT(-98.233483903 19.0568494313),19.05684943,-98.2334839,13:50,XC8687A,Marinela,Delivery,Heavy duty truck,2,no,"""Bakery (bread, cookies, cakes, etc.)""",https://web.fulcrumapp.com/photos/view?photos=4db797db-3207-4f82-8945-a9441df2ea9c,14:10,Street - next to the curbside,no,no,Rear,1,,no,no,,no,no,
+04e64464-3fbd-4ce1-99d8-5364e1567e8c,"4510 Vía Volkswagen
+Heroica Puebla de Zaragoza Puebla 72180
+Mexico",2022-11-12 18:02:57 UTC,Juan Carlos Bejarano Moreno,SRID=4326;POINT(-98.2339161 19.0596775),19.0596775,-98.2339161,11:47,SM 20745,La fete,Delivery,Pick-up,1,yes,"""Bakery (bread, cookies, cakes, etc.)""","https://web.fulcrumapp.com/photos/view?photos=21438aa4-1f8a-476d-8cda-472e09fb8310,eb001ba0-2d3f-4c6d-87d0-c57dd8977272",12:13,Street - next to the curbside,no,no,Side,0,1,no,no,,no,no,
+d0a6568d-cf8f-48fd-ad3d-007e79f4ae6b,"4501A Avenida 2 Poniente
+Heroica Puebla de Zaragoza Puebla 72070
+México",2022-11-12 17:55:44 UTC,Luis Gerardo Ramírez Lastra,SRID=4326;POINT(-98.2285674 19.0626948),19.0626948,-98.2285674,11:45,SP35169,Barcel,Delivery,Light truck or Van,1,no,"""Bakery (bread, cookies, cakes, etc.)"",Nonfood","https://web.fulcrumapp.com/photos/view?photos=11d0ef93-3df4-48ef-b02d-e9b9262ca291,3af68fe4-0028-4912-9ca0-3444607faf82",11:53,Street - next to the curbside,yes,no,Rear,2,,yes,no,,no,no,
+eff15823-b1f2-4e82-afb2-2195635d1406,"4717 Avenida Reforma
+Heroica Puebla de Zaragoza Puebla 72160
+México",2022-11-12 17:55:44 UTC,Luis Gerardo Ramírez Lastra,SRID=4326;POINT(-98.231397 19.0627239),19.0627239,-98.231397,11:41,SN89460,,Delivery,Light truck or Van,2,no,sillas y mesas para eventos,https://web.fulcrumapp.com/photos/view?photos=cdfd5574-3cd3-44ec-89dd-ad7c9c3a8267,12:00,Dedicated unloading area (Bay),no,no,Rear,2,,no,no,,no,no,
+be5a8b55-ad05-4c32-8f62-7e0d20061cfc,"55 Calle Aljojuca
+Heroica Puebla de Zaragoza Puebla 72160
+México",2022-11-12 17:32:23 UTC,Luis Gerardo Ramírez Lastra,SRID=4326;POINT(-98.232277 19.0593853),19.0593853,-98.232277,11:00,SN16796,,Delivery,Heavy duty truck,2,no,muebles,https://web.fulcrumapp.com/photos/view?photos=ff816ee4-5fda-4906-b523-8c483e733de0,11:26,Street - next to the curbside,no,no,Rear,3,,no,no,,no,no,
+9e629bb4-3fad-40b6-bccb-0970d8af1d0a,"247 Avenida Reforma Sur
+Heroica Puebla de Zaragoza Puebla 72160
+México",2022-11-12 17:25:22 UTC,Luis Gerardo Ramírez Lastra,SRID=4326;POINT(-98.2314082 19.0610519),19.0610519,-98.2314082,11:19,SN24486,Agua inmaculada,Sales & delivery,Automobile,1,no,"""Non-alcoholic beverages (water, soda, etc.)""","https://web.fulcrumapp.com/photos/view?photos=62b31e4c-55c1-4dfe-b1d2-5ae973923fc4,59baef3b-eeec-4e24-8848-95e17595ea30",11:40,Street - next to the curbside,no,no,Rear,1,,no,no,,no,no,
+8fdc5c5d-9113-4ca1-bb8a-a53b6dc1a65a,"3133 Tetela
+Heroica Puebla de Zaragoza Puebla 72160
+México",2022-11-12 17:01:03 UTC,Luis Gerardo Ramírez Lastra,SRID=4326;POINT(-98.2243023 19.057338),19.057338,-98.2243023,09:30,RR6807A,Lala,Delivery,Heavy duty truck,3,yes,"""Dairy (milk, cheese, etc.)""",https://web.fulcrumapp.com/photos/view?photos=3af1d0b8-3604-48a8-a749-31b717f7a891,11:20,Dedicated unloading area (Bay),no,no,Rear,2,,no,no,,no,no,
+94dd77e9-0bf9-483c-983f-df71c4b9f45a,"3319 Avenida Reforma Sur
+Heroica Puebla de Zaragoza Puebla 72160
+México",2022-11-12 17:01:02 UTC,Luis Gerardo Ramírez Lastra,SRID=4326;POINT(-98.2241354 19.057425),19.057425,-98.2241354,10:40,XB0704A,Pilgrim,Delivery,Heavy duty truck,2,yes,"""Dairy (milk, cheese, etc.)""",https://web.fulcrumapp.com/photos/view?photos=11ced2c2-4230-4149-ad64-adc212b4ed39,10:55,Street - next to the curbside,no,no,Rear,2,,no,no,,no,no,
+cda7b134-7827-4830-9337-53f46be4f8b4,"152 Calle Tehuacán Sur
+Heroica Puebla de Zaragoza Puebla 72160
+Mexico",2022-11-12 16:56:51 UTC,Juan Carlos Bejarano Moreno,SRID=4326;POINT(-98.2297262 19.0531093),19.0531093,-98.2297262,10:37,XA 1445 A,Coca colá ,Delivery,Light truck or Van,3,no,"""Non-alcoholic beverages (water, soda, etc.)""","https://web.fulcrumapp.com/photos/view?photos=a9e45d4d-683f-4967-8210-2a8c7dfb6452,50130c64-df8e-4eab-a2ba-0ee946c308e6",11:00,Street - next to the curbside,no,no,Side,2,1,no,no,,no,no,
+4fb92be5-f7f8-40ff-b4fe-d2d1e429ba13,"43 Calle 43 Norte
+Heroica Puebla de Zaragoza Puebla 72070
+México",2022-11-12 16:54:10 UTC,Luis Gerardo Ramírez Lastra,SRID=4326;POINT(-98.2274024 19.0620703),19.0620703,-98.2274024,10:28,XA49337,,Sales & delivery,Light truck or Van,1,no,Produce (fruits & vegetables),https://web.fulcrumapp.com/photos/view?photos=cfb4110f-f1f0-4627-86d1-8aa5a56187a0,10:30,On top of a sidewalk,yes,no,Rear,1,,yes,no,,yes,no,
+cbaab095-ad31-4145-804b-ddc218681802,"3916 Avenida 21 Poniente
+Heroica Puebla de Zaragoza Puebla 72180
+Mexico",2022-11-12 16:45:34 UTC,Juan Carlos Bejarano Moreno,SRID=4326;POINT(-98.2326791 19.0517539),19.0517539,-98.2326791,10:35,SP 28 423,,Sales & delivery,SUV,2,no,"""Non-alcoholic beverages (water, soda, etc.)"",""Personal care (shampoo, soap, etc.)""",https://web.fulcrumapp.com/photos/view?photos=4b4958e0-cd81-45dd-9f51-4de70b3cb699,10:55,Street - next to the curbside,no,no,Side,0,1,no,no,,no,no,
+68b5ecad-36b0-4172-b2b3-43aebd0485ec,"1906 Avenida Rosendo Márquez
+Heroica Puebla de Zaragoza Puebla 72180
+Mexico",2022-11-12 16:40:10 UTC,Juan Carlos Bejarano Moreno,SRID=4326;POINT(-98.2339776 19.0529867),19.0529867,-98.2339776,10:22,SN 91 675,,Delivery,SUV,1,no,"""Dairy (milk, cheese, etc.)""",https://web.fulcrumapp.com/photos/view?photos=84b6a4c7-d2af-4c59-afe5-a9989248d42d,10:43,Store's garage,no,no,Rear,0,1,no,no,,no,no,
+dc61d831-a0d0-448f-92fd-bfc60d449cf6,"3910 Avenida 2 Poniente
+Heroica Puebla de Zaragoza Puebla 72070
+México",2022-11-12 16:28:11 UTC,Luis Gerardo Ramírez Lastra,SRID=4326;POINT(-98.2255224 19.0611275),19.0611275,-98.2255224,09:50,SN70204,,Sales & delivery,Light truck or Van,1,no,"""Non-alcoholic beverages (water, soda, etc.)""",https://web.fulcrumapp.com/photos/view?photos=381f3a8f-5597-4224-b401-c0dc3e37a29e,10:30,Public parking lot,no,no,Rear,1,,no,no,,no,no,
+3b19bb47-17f0-4d33-aa27-cf6890bacfe5,"Heroica Puebla de Zaragoza Puebla 72160
+Mexico",2022-11-12 16:23:43 UTC,Juan Carlos Bejarano Moreno,SRID=4326;POINT(-98.2301393 19.0553701),19.0553701,-98.2301393,10:11,Sn 16767,Eventos galish,Delivery,Light truck or Van,4,no,Nonfood,"https://web.fulcrumapp.com/photos/view?photos=27325c36-4be5-4bab-9fd5-9dbfac54646c,77a09826-5a2a-4bbe-b134-5068f27db12a",10:38,Street - next to the curbside,no,no,Rear,1,1,no,no,,no,no,
+7269f28f-ed3a-4c30-841a-11d82e5c0c5f,"28a San Martín Texmelucan
+Heroica Puebla de Zaragoza Puebla 72160
+México",2022-11-12 16:01:34 UTC,Luis Gerardo Ramírez Lastra,SRID=4326;POINT(-98.2282945 19.0590599),19.0590599,-98.2282945,09:56,SP30072,,Sales & delivery,Light truck or Van,1,no,Flores,https://web.fulcrumapp.com/photos/view?photos=df299222-b5c8-45d4-ada6-5e4fb5970f0a,10:20,Public parking lot,no,no,Rear,1,,no,no,,no,no,
+2b8a179a-521c-4ee3-a5ef-241fd1972b01,"45 Teziutlán Sur
+Heroica Puebla de Zaragoza Puebla 72160
+Mexico",2022-11-12 16:00:49 UTC,Juan Carlos Bejarano Moreno,SRID=4326;POINT(-98.2271538 19.0532046),19.0532046,-98.2271538,09:46,809 WNH,Breaking Bread Coffee,Delivery,Pick-up,1,no,"""Bakery (bread, cookies, cakes, etc.)""","https://web.fulcrumapp.com/photos/view?photos=19609d92-a82c-4614-be2c-83706d3e197b,80c8596c-31c3-49b8-9618-02a94038c166",10:06,Public parking lot,no,yes,Side,0,1,no,no,,no,no,
+26c5673b-0e90-44a0-adc5-824be90e7ac4,"5535 Calle 5 Sur
+Puebla PUE 72440
+MX",2022-11-12 15:37:22 UTC,José Zapata,SRID=4326;POINT(-98.2170412377 19.0201596556),19.02015966,-98.21704124,09:26,SP01581,Sabritas,Sales & delivery,Light truck or Van,2,no,Chips,https://web.fulcrumapp.com/photos/view?photos=e671d331-58c5-4c14-b8e0-cdc95afcb6da,09:32,Street - next to the curbside,no,no,Rear,1,,no,no,,no,no,
+3aa26fc8-4373-4387-ac50-4f7b0d417107,"535B Avenida 3 Poniente
+Puebla de Zaragoza PUE 72000
+MX",2022-11-12 15:11:00 UTC,Martínez Edwin Alejandro,SRID=4326;POINT(-98.2034983859 19.045889033),19.04588903,-98.20349839,12:22,XE7105A,Coca-Cola,Delivery,Light truck or Van,2,no,"""Non-alcoholic beverages (water, soda, etc.)""","https://web.fulcrumapp.com/photos/view?photos=495c20ae-4597-40a4-92e0-190785243a68,ea468fa0-f0de-4d5d-8ad1-b554085954a5",12:28,Double lane,yes,no,Side,1,1,no,no,,no,yes,
+be55ca05-95dc-4215-ad31-e3bc3549320e,"105 5 Avenida 2 Poniente
+Puebla de Zaragoza PUE 72000
+MX",2022-11-12 15:11:00 UTC,Martínez Edwin Alejandro,SRID=4326;POINT(-98.1986525472 19.0453107361),19.04531074,-98.19865255,11:00,SK-19-310,,Delivery,Heavy duty truck,2,no,"""Non-alcoholic beverages (water, soda, etc.)""",https://web.fulcrumapp.com/photos/view?photos=9c8ab57b-81e3-4487-b925-49e3f6854083,11:19,Street - next to the curbside,no,no,Side,2,,no,no,,no,no,
+01b3d7bf-80bc-4a18-9ca2-0063a7164ef0,"5756 Calle 5 Sur
+Puebla de Zaragoza PUE 72440
+MX",2022-11-12 15:10:59 UTC,Martínez Edwin Alejandro,SRID=4326;POINT(-98.21787 19.018541),19.018541,-98.21787,10:31,HJ5434F,Marinela,Delivery,Light truck or Van,4,no,"""Bakery (bread, cookies, cakes, etc.)""",https://web.fulcrumapp.com/photos/view?photos=25658429-a719-4125-ae22-077620c6f2ac,10:52,Street - next to the curbside,no,no,Rear,1,,no,no,,no,no,
+5288fd44-2899-4765-9195-3f866d2e6d45,"709–725 Avenida 3 Poniente
+Puebla de Zaragoza PUE 72000
+MX",2022-11-12 15:10:59 UTC,Martínez Edwin Alejandro,SRID=4326;POINT(-98.2037109509 19.0459898685),19.04598987,-98.20371095,12:52,SP28323,Peñafiel,Delivery,Light truck or Van,1,no,"""Non-alcoholic beverages (water, soda, etc.)""",https://web.fulcrumapp.com/photos/view?photos=dfdc13f4-1ff7-409a-a21b-bc194e5f8838,13:02,Public parking lot,yes,no,Side,1,1,no,no,,no,no,
+ced463ec-22a6-4e79-964d-b348817e1098,"535b Avenida 3 Poniente
+Heroica Puebla de Zaragoza Puebla 72000
+México",2022-11-12 02:44:45 UTC,Diego Hernán López L,SRID=4326;POINT(-98.2036475837 19.0459610286),19.04596103,-98.20364758,18:00,SN-91-966,N/A,Delivery,Light truck or Van,1,no,"""Dairy (milk, cheese, etc.)""",https://web.fulcrumapp.com/photos/view?photos=5f377d97-8aeb-4d1b-823b-8d9ab6167882,18:15,Street - next to the curbside,yes,no,Rear,0,,no,no,,no,yes,8
+d1662ccd-4787-4c38-969a-a9e8a01ad1c2,"6 Calle 4 Norte
+Puebla de Zaragoza PUE 72000
+MX",2022-11-12 02:03:44 UTC,Sandra Carreón,SRID=4326;POINT(-98.1941044021 19.045529019),19.04552902,-98.1941044,16:17,SP40994,Marinela,Delivery,Light truck or Van,1,yes,"""Bakery (bread, cookies, cakes, etc.)""",https://web.fulcrumapp.com/photos/view?photos=2a88e44f-e66e-48e7-94cb-7666e731c8dc,16:26,Street - next to the curbside,yes,no,Rear,1,1,no,no,,no,no,
+9b4fc2c6-6f9d-4a64-99ea-7482533c4536,"Heroica Puebla de Zaragoza Puebla 72000
+México",2022-11-11 22:24:51 UTC,Sergio Licea,SRID=4326;POINT(-98.1937378272 19.04621108),19.04621108,-98.19373783,15:55,SP-14-380,Pepsi,Delivery,Light truck or Van,1,no,"""Non-alcoholic beverages (water, soda, etc.)""",https://web.fulcrumapp.com/photos/view?photos=6a429264-14a8-4741-ae6e-0966d4f4e0e9,16:16,Double lane,no,no,Side,0,,no,no,,no,no,
+1ad48cb6-aed4-47cd-bf9d-526abe05c96a,"Coclovía 9 Sur
+Cholula PUE 72764
+MX",2022-11-11 22:11:31 UTC,Harry Hernández,SRID=4326;POINT(-98.3130123128 19.0651500243),19.06515002,-98.31301231,16:29,"SL81570
+",Corona,Delivery,Heavy duty truck,3,no,"""Alcoholic beverages (beer, liquor, etc.)""",https://web.fulcrumapp.com/photos/view?photos=cb8d07ff-38f1-4564-a728-14423b01459a,16:31,Street - next to the curbside,no,no,Side,2,,no,no,,no,yes,
+d30cea2f-d083-4f94-9858-b3ef0cb6ecab,"526 Avenida Miguel Hidalgo
+Cholula PUE 72764
+MX",2022-11-11 22:11:30 UTC,Harry Hernández,SRID=4326;POINT(-98.3115490359 19.0640094081),19.06400941,-98.31154904,15:50,80TEL7,Presto ,Delivery,Motorcycle,1,no,"""Bakery (bread, cookies, cakes, etc.)""",https://web.fulcrumapp.com/photos/view?photos=e6a4cf0e-fa66-46ac-b6ab-c1e3c91656c4,15:55,Street - next to the curbside,no,no,Side,0,,no,no,,no,no,
+fed369a3-9e0e-4c42-acca-200c6dd60a2a,"3A Calle 7 Norte
+Cholula PUE 72764
+MX",2022-11-11 22:11:30 UTC,Harry Hernández,SRID=4326;POINT(-98.3115105239 19.0642812755),19.06428128,-98.31151052,15:52,SN26042,Coca Cola ,Delivery,Heavy duty truck,3,no,"""Non-alcoholic beverages (water, soda, etc.)""",https://web.fulcrumapp.com/photos/view?photos=e39a07c5-0576-4cd8-8016-a1369cea854b,16:05,Street - next to the curbside,no,no,Side,2,,no,no,,no,no,
+56aee666-7420-474e-9056-0995e085b806,"17 Avenida 5 Oriente
+Cholula Puebla 72760
+Mexico",2022-11-11 22:08:32 UTC,José Varela,SRID=4326;POINT(-98.30646 19.0598333),19.0598333,-98.30646,16:24,Lb92523,Bonafont,Delivery,Heavy duty truck,1,no,"""Non-alcoholic beverages (water, soda, etc.)""",https://web.fulcrumapp.com/photos/view?photos=0d5725aa-8533-4bb1-8a7f-864db8d84bec,16:32,Street - next to the curbside,no,no,Side,1,,no,no,,no,no,
+5f349557-fb6f-4847-be1d-a517f1d78c88,"512 Avenida 4 Poniente
+Cholula Puebla 72760
+Mexico",2022-11-11 22:08:31 UTC,José Varela,SRID=4326;POINT(-98.31059 19.0656),19.0656,-98.31059,15:22,Sk94616,Sabritas,Delivery,Heavy duty truck,2,no,"""Bakery (bread, cookies, cakes, etc.)""",https://web.fulcrumapp.com/photos/view?photos=c3450179-141c-40d1-984b-f817119f12c0,15:34,Street - next to the curbside,no,no,Rear,1,,no,no,,no,no,
+cff61d15-ca2d-470f-b660-ae64a9d12615,"501A Avenida 2 Poniente
+De Puebla 72760
+Mexico",2022-11-11 22:08:31 UTC,José Varela,SRID=4326;POINT(-98.309745 19.0640329),19.0640329,-98.309745,15:05,SN20719,San Antonio,Delivery,Light truck or Van,2,yes,"""Dairy (milk, cheese, etc.)""",https://web.fulcrumapp.com/photos/view?photos=470c0d50-896d-4ec3-8f53-daf7b28419a8,15:21,Public parking lot,no,no,Rear,2,,no,no,,no,no,
+71a4e11f-847b-4e41-9cb6-0ccfb7a01807,"501A Avenida 2 Poniente
+De Puebla 72760
+Mexico",2022-11-11 22:08:30 UTC,José Varela,SRID=4326;POINT(-98.3097392 19.0639638),19.0639638,-98.3097392,15:09,SJ67008,,Delivery,SUV,2,no,Produce (fruits & vegetables),https://web.fulcrumapp.com/photos/view?photos=854cd905-e6bd-4571-8a98-b01bf5260190,15:20,Street - next to the curbside,no,no,Rear,2,,no,no,,no,no,
+115bf098-e947-4d09-ad07-9ad579164c35,"506 Calle 5 Sur
+Cholula Puebla 72760
+Mexico",2022-11-11 22:08:30 UTC,José Varela,SRID=4326;POINT(-98.3110767 19.0612967),19.0612967,-98.3110767,14:47,LE83024,Marinela,Delivery,SUV,1,no,"""Bakery (bread, cookies, cakes, etc.)""",https://web.fulcrumapp.com/photos/view?photos=120b6abb-6453-4747-a233-f857df6878f9,15:00,Street - next to the curbside,no,no,Rear,1,,no,no,,no,no,
+1f2c3241-509a-4d91-a433-1a15e96fd24b,"316 Avenida 2 Poniente
+San Andrés Cholula Puebla 72760
+Mexico",2022-11-11 22:08:29 UTC,José Varela,SRID=4326;POINT(-98.3092333 19.0638883),19.0638883,-98.3092333,16:15,LE83024,Príncipes Marinela,Delivery,Light truck or Van,2,no,"""Bakery (bread, cookies, cakes, etc.)""",https://web.fulcrumapp.com/photos/view?photos=80eaf97e-799e-4c0f-aad0-b0d852ea57e1,16:35,Street - next to the curbside,no,no,Rear,0,,no,no,,no,no,
+2a23ed7d-dbe7-490f-b61d-cea9b0ae028e,"286 Avenida 2 Poniente
+San Andrés Cholula Puebla 72760
+Mexico",2022-11-11 22:08:29 UTC,José Varela,SRID=4326;POINT(-98.3093346 19.063999),19.063999,-98.3093346,16:08,SP 13 463,,Delivery,Light truck or Van,2,no,Produce (fruits & vegetables),https://web.fulcrumapp.com/photos/view?photos=6797091c-a5c4-487e-ac3c-1cb82e7a848f,16:30,Public parking lot,no,no,Rear,1,,no,no,,no,no,
+6f431744-a51b-4b36-b33f-13fb860ef131,"403 Calle 7 Norte
+Cholula Puebla 72764
+Mexico",2022-11-11 22:08:28 UTC,José Varela,SRID=4326;POINT(-98.3107461 19.0656979),19.0656979,-98.3107461,15:52,SP14239,Pepsi,Delivery,Heavy duty truck,3,no,"""Non-alcoholic beverages (water, soda, etc.)""",https://web.fulcrumapp.com/photos/view?photos=4b89d877-0c72-4dd4-bd55-4473434e67c4,16:00,Street - next to the curbside,no,no,Side,1,1,no,no,,no,no,
+56562b58-bfeb-4165-8e3b-7bc0a5a224cf,"No 1 1 Avenida Morelos
+Cholula Puebla 72760
+Mexico",2022-11-11 22:08:27 UTC,José Varela,SRID=4326;POINT(-98.3067634 19.0618411),19.0618411,-98.3067634,15:45,SN26042,Coca Cola,Delivery,Heavy duty truck,2,no,"""Non-alcoholic beverages (water, soda, etc.)""",https://web.fulcrumapp.com/photos/view?photos=41013b7c-a95c-40f9-ae85-c26a974dcb64,15:55,Street - next to the curbside,no,no,Side,2,1,no,no,,no,no,
+830c044c-e22c-4754-994c-6f42f69bf133,"5751–5759 Calle 3 Sur
+Puebla de Zaragoza PUE 72440
+MX",2022-11-11 17:23:47 UTC,Manuel Flores,SRID=4326;POINT(-98.2155760378 19.0183170953),19.0183171,-98.21557604,15:53,NFP-71-65,Bonafont,Sales (usually small car or motorcycle),Automobile,1,no,"""Non-alcoholic beverages (water, soda, etc.)""",https://web.fulcrumapp.com/photos/view?photos=7fcdb903-3db6-4be1-8e59-4b964fcc8385,15:59,Street - next to the curbside,no,no,Rear,0,,yes,no,,no,no,
+a7c85035-e5ea-467d-a130-9b6fdd72cb9a,"5751–5759 Calle 3 Sur
+Puebla de Zaragoza PUE 72440
+MX",2022-11-11 17:23:46 UTC,Manuel Flores,SRID=4326;POINT(-98.2155917826 19.0182728319),19.01827283,-98.21559178,15:36,94TEH3,Peñafiel,Delivery,Motorcycle,1,no,"""Non-alcoholic beverages (water, soda, etc.)""","https://web.fulcrumapp.com/photos/view?photos=832ae30d-5641-43d8-8cac-7584bbfaccb5,5b2062fa-72c8-4ede-a4f6-9d028d96783c,ced33d41-82c5-445a-afce-ecc584d83b6d",15:42,Street - next to the curbside,no,no,Side,0,,yes,no,,no,no,
+05a48de5-9458-441c-b96b-9a22c187d974,"115 Calle Tamaulipas
+Puebla de Zaragoza PUE 72440
+MX",2022-11-11 17:23:46 UTC,Manuel Flores,SRID=4326;POINT(-98.2156169415 19.0155333985),19.0155334,-98.21561694,15:15,LE-18461,Bonafont,Delivery,Heavy duty truck,2,no,"""Non-alcoholic beverages (water, soda, etc.)""","https://web.fulcrumapp.com/photos/view?photos=00893872-297e-4887-b0d9-e0d8cc9bce45,cf553b03-9df9-4535-ab5d-7bb08c6f54b6",15:21,Street - next to the curbside,no,no,Side,2,,yes,no,,no,no,
+c57f43e8-8c23-4da5-b220-ff9b00e6b020,,2022-11-11 13:42:27 UTC,José Zapata,SRID=4326;POINT(-98.215618 19.018353),19.018353,-98.215618,15:57,SN42550,Chispagua,Delivery,Light truck or Van,1,no,"""Non-alcoholic beverages (water, soda, etc.)""",https://web.fulcrumapp.com/photos/view?photos=9297dae6-8d1d-400f-abbf-eecf6848ef28,16:05,Double lane,no,no,Side,1,,yes,no,,no,yes,
+af1d6ac9-3e31-42de-a4d2-873c080b8766,"730 Avenida Reforma
+Puebla de Zaragoza PUE 72000
+MX",2022-11-11 05:09:33 UTC,Sandra Carreón,SRID=4326;POINT(-98.2042665035 19.0473467298),19.04734673,-98.2042665,11:19,SP35259,Ricolino ,Delivery,Light truck or Van,1,no,"""Bakery (bread, cookies, cakes, etc.)""",https://web.fulcrumapp.com/photos/view?photos=623ceba5-41a6-41f5-9a2d-2c488af63626,11:35,On top of a sidewalk,no,no,Rear,1,1,no,no,,no,no,
+9eac0dba-fb4b-4947-ba68-c406dadb6887,"605 Calle 5 Norte
+Puebla de Zaragoza PUE 72000
+MX",2022-11-11 05:09:33 UTC,Sandra Carreón,SRID=4326;POINT(-98.2000555478 19.04881606),19.04881606,-98.20005555,10:15,WZ3038A,,Delivery,Pick-up,4,no,"Nonfood,Other",https://web.fulcrumapp.com/photos/view?photos=a3aa70a9-a8a4-4d4a-83a9-128d96dd318d,10:41,Store's garage,no,no,Rear,0,1,no,no,,no,no,
+81e9e876-3b3c-4376-a359-7ae4df145f0b,"1826–1832 Avenida Venustiano Carranza
+San Bernardino Tlaxcalancingo PUE 72835
+MX",2022-11-10 21:43:51 UTC,Leoncio Mora Díaz,SRID=4326;POINT(-98.2491253597 19.0226732567),19.02267326,-98.24912536,12:41,LB62119,Nestle ,Delivery,Light truck or Van,3,yes,"""Bakery (bread, cookies, cakes, etc.)""",https://web.fulcrumapp.com/photos/view?photos=249fd9de-9bb2-4684-9b83-f2f657d5dab1,13:04,Street - next to the curbside,yes,no,Side,1,,no,no,,no,no,
+54af96d2-2503-43ba-9fd5-55a3a132033f,"11 Privada la Quinta
+San Bernardino Tlaxcalancingo PUE 72836
+MX",2022-11-10 21:40:28 UTC,Leoncio Mora Díaz,SRID=4326;POINT(-98.249059394 19.0285984919),19.02859849,-98.24905939,23:40,LC08082,Danone,Delivery,Light truck or Van,2,yes,"""Dairy (milk, cheese, etc.)""","https://web.fulcrumapp.com/photos/view?photos=360c7e9d-10f5-496e-b6df-96dbcd7ec1ab,b08481e6-0904-4026-909c-b6a3c4fd0538",12:02,Street - next to the curbside,yes,yes,Rear,0,,no,no,,no,no,
+f4a602ca-651b-426d-9f76-26235729023d,"123 Boulevard Andromeda
+San Bernardino Tlaxcalancingo PUE 72835
+MX",2022-11-10 21:29:21 UTC,Leoncio Mora Díaz,SRID=4326;POINT(-98.2460767776 19.0305848388),19.03058484,-98.24607678,13:26,SN56338,Pipa de agua ,Delivery,Heavy duty truck,1,no,Water,https://web.fulcrumapp.com/photos/view?photos=1a88ef15-3b76-4bee-a6a7-77867727e06b,13:38,Double lane,yes,no,Rear,0,,no,no,,no,no,
+4f30ea03-1942-41d6-8a0c-784d5d42018a,"123 Avenida Venustiano Carranza
+San Bernardino Tlaxcalancingo PUE 72836
+MX",2022-11-10 21:28:26 UTC,Leoncio Mora Díaz,SRID=4326;POINT(-98.2501925963 19.0319133618),19.03191336,-98.2501926,15:00,LB99390,Bonafont ,Delivery,Heavy duty truck,2,no,"""Non-alcoholic beverages (water, soda, etc.)""","https://web.fulcrumapp.com/photos/view?photos=57107ff9-da75-410a-bac3-11426b7f415a,da5c7616-88fb-4200-b042-e21a85e83e33",15:21,Street - next to the curbside,no,no,Side,1,,no,no,,no,no,
+78332301-b37b-4907-af54-ab5447d68b98,"122 Avenida Venustiano Carranza
+San Bernardino Tlaxcalancingo PUE 72836
+MX",2022-11-10 21:24:53 UTC,Leoncio Mora Díaz,SRID=4326;POINT(-98.2492907345 19.0260824818),19.02608248,-98.24929073,14:09,SM69777,Bimbo,Delivery,Heavy duty truck,2,no,"""Bakery (bread, cookies, cakes, etc.)""",https://web.fulcrumapp.com/photos/view?photos=25f67a0e-0f90-4963-9224-4548c607d7b9,14:23,Street - next to the curbside,yes,no,Rear,2,,no,no,,no,no,
+4770c182-25c2-45c5-b037-af1e91e6bf39,"820 Calle Andrómeda
+San Bernardino Tlaxcalancingo PUE 72836
+MX",2022-11-10 20:20:00 UTC,Leoncio Mora Díaz,SRID=4326;POINT(-98.2486956194 19.0319597687),19.03195977,-98.24869562,13:15,SM61748,Sabritas,Delivery,Heavy duty truck,2,no,Chips,"https://web.fulcrumapp.com/photos/view?photos=68716523-893a-489d-bb55-500a75785be3,cbdce283-0c07-471d-a75e-9ed8bcbc2ca9",14:18,Street - next to the curbside,no,no,Side,0,,no,no,,no,no,
+ff5247f2-c585-4186-b053-2110d9c91ee8,"37–38 Calle Revolución
+San Bernardino Tlaxcalancingo PUE 72824
+MX",2022-11-10 20:03:58 UTC,María Pedraza,SRID=4326;POINT(-98.2625677774 19.0356715777),19.03567158,-98.26256778,13:55,Sm29694,,Sales & delivery,Light truck or Van,1,no,Nonfood,https://web.fulcrumapp.com/photos/view?photos=6f116562-3dcb-4e8d-895e-d9187a80aec3,14:03,Street - next to the curbside,no,no,Rear,0,,no,no,,no,no,
+e2ebbe77-82e7-42ef-a00f-31447cc4fd97,"38B Calle Revolución
+San Bernardino Tlaxcalancingo PUE 72824
+MX",2022-11-10 19:59:35 UTC,María Pedraza,SRID=4326;POINT(-98.2624759132 19.0357673722),19.03576737,-98.26247591,13:49,Sp19719,,Delivery,Light truck or Van,2,no,"""Bakery (bread, cookies, cakes, etc.)""",https://web.fulcrumapp.com/photos/view?photos=0d1cf38b-af95-4e77-abdb-ecbd1cb51e75,13:55,Street - next to the curbside,no,no,Rear,0,,no,no,,no,no,
+7a5ee078-77dc-4ae3-bb34-a3ea51498a8e,"51 Calle Revolución
+San Bernardino Tlaxcalancingo PUE 72824
+MX",2022-11-10 19:59:34 UTC,María Pedraza,SRID=4326;POINT(-98.2628961378 19.0350535564),19.03505356,-98.26289614,13:25,Sp17204,,Delivery,Pick-up,2,no,"""Meat (beef, poultry, pork, seafood, etc.)""",https://web.fulcrumapp.com/photos/view?photos=4fbcb989-6a3d-4dfb-bd0d-933bba2c60b5,13:41,Street - next to the curbside,no,no,Rear,0,,no,no,,no,no,
+37ab2566-b109-4fe1-b746-c39b26128686,"703 Camino Real a San Andrés
+San Bernardino Tlaxcalancingo PUE 72824
+MX",2022-11-10 19:59:33 UTC,María Pedraza,SRID=4326;POINT(-98.2628400234 19.0340166363),19.03401664,-98.26284002,13:31,Nv5303a,Pepsi,Delivery,Light truck or Van,3,no,"""Non-alcoholic beverages (water, soda, etc.)""",https://web.fulcrumapp.com/photos/view?photos=8f7bcb48-4349-4f70-ab7b-cb8bfb15f528,13:41,Street - next to the curbside,no,no,Side,1,,no,no,,no,no,
+a320db7e-7291-4edc-a2d1-ba652932156b,"Camino Real a San Andrés
+San Bernardino Tlaxcalancingo PUE 72824
+MX",2022-11-10 19:59:33 UTC,María Pedraza,SRID=4326;POINT(-98.2635409444 19.034514549),19.03451455,-98.26354094,13:21,Xx7123a,,Delivery,Pick-up,1,no,"""Paper Goods (paper towels, toilet paper, etc.)"",""Personal care (shampoo, soap, etc.)""",https://web.fulcrumapp.com/photos/view?photos=375360ca-5f44-4f60-b3d5-c80e8e76dbbc,13:28,Street - next to the curbside,no,no,Rear,0,,no,no,,no,no,
+a4a324db-66a0-44b5-8173-00ec7a3f1cd4,"4403 Calle Camino Real a Cholula
+San Bernardino Tlaxcalancingo PUE 72824
+MX",2022-11-10 19:59:32 UTC,María Pedraza,SRID=4326;POINT(-98.2639964957 19.0345860549),19.03458605,-98.2639965,10:30,Sp01608,EpurA,Delivery,Light truck or Van,2,no,"""Non-alcoholic beverages (water, soda, etc.)""",https://web.fulcrumapp.com/photos/view?photos=379d7a94-9d69-4694-bdf2-04b68a04187b,10:30,Double lane,no,no,Side,0,,yes,no,,no,no,
+c808dd05-935b-4886-a9ee-68423df95168,"1409 Camino Real a San Andrés
+San Bernardino Tlaxcalancingo PUE 72824
+MX",2022-11-10 19:59:32 UTC,María Pedraza,SRID=4326;POINT(-98.2641675045 19.0345795332),19.03457953,-98.2641675,13:00,Nwj8241,,Delivery,Pick-up,1,no,Tlapalería,https://web.fulcrumapp.com/photos/view?photos=1ff1bff0-091f-43ab-becd-42b2f1a3f56d,13:07,Street - next to the curbside,no,no,Rear,0,,no,no,,no,no,
+c09a34b6-013e-4019-b413-3e25a1bfe042,"4138–4183 Camino Real a San Andrés
+San Bernardino Tlaxcalancingo PUE 72824
+MX",2022-11-10 19:59:31 UTC,María Pedraza,SRID=4326;POINT(-98.2665773949 19.0351433435),19.03514334,-98.26657739,12:50,Sp21948,,Sales & delivery,Light truck or Van,1,no,"""Personal care (shampoo, soap, etc.)""",https://web.fulcrumapp.com/photos/view?photos=b6427f31-dab3-4f56-9af9-1586b6d9c960,12:57,Street - next to the curbside,no,no,Rear,0,,no,no,,no,no,
+0341e783-eb96-4f77-8629-04289dba411c,"Camino Real a San Andrés
+San Bernardino Tlaxcalancingo PUE 72824
+MX",2022-11-10 19:59:30 UTC,María Pedraza,SRID=4326;POINT(-98.2677415465 19.0354752905),19.03547529,-98.26774155,12:40,Sn75443,,Delivery,Light truck or Van,1,no,Papelería,https://web.fulcrumapp.com/photos/view?photos=630db295-5c20-44c2-94f2-cafd4e4c3aa9,12:52,Public parking lot,no,no,Rear,0,,no,no,,no,no,
+2b0e047a-b369-4837-89ea-dc2ee2683bb3,"Camino Real a San Andrés
+San Bernardino Tlaxcalancingo PUE 72824
+MX",2022-11-10 19:59:30 UTC,María Pedraza,SRID=4326;POINT(-98.2673591003 19.0352303319),19.03523033,-98.2673591,12:35,Trx8426,,Sales & delivery,Automobile,1,no,"""Alcoholic beverages (beer, liquor, etc.)""",https://web.fulcrumapp.com/photos/view?photos=fdd14ab3-03ee-43d8-99cc-e3494e087447,12:48,Street - next to the curbside,no,no,Rear,0,,no,no,,no,yes,
+4b60fdac-1b7e-4fa4-bc52-165984631f40,"4002 Camino Real a San Andrés
+San Bernardino Tlaxcalancingo PUE 72824
+MX",2022-11-10 19:59:29 UTC,María Pedraza,SRID=4326;POINT(-98.2667092728 19.0352613585),19.03526136,-98.26670927,12:30,Ajf942A,,Delivery,SUV,2,no,"""Meat (beef, poultry, pork, seafood, etc.)""",https://web.fulcrumapp.com/photos/view?photos=eac23e81-d0bd-44f6-b90c-eacb36d1102f,12:44,Street - next to the curbside,yes,no,Rear,0,,no,no,,no,yes,
+21b558f1-9d59-4f81-a89f-0024864c8120,"37–38 Calle Revolución
+San Bernardino Tlaxcalancingo PUE 72824
+MX",2022-11-10 19:59:10 UTC,Carol Cázares,SRID=4326;POINT(-98.2625598689 19.0356709219),19.03567092,-98.26255987,13:54,LF48486,,Delivery,Light truck or Van,2,yes,"""Meat (beef, poultry, pork, seafood, etc.)""",https://web.fulcrumapp.com/photos/view?photos=0e64b26f-20cd-4e8f-9e4c-6e8ae43ea236,13:54,Street - next to the curbside,no,yes,Rear,1,,no,no,,no,no,
+20d7fb07-39ae-4bf0-9edf-1781d965a52f,"38B Calle Revolución
+San Bernardino Tlaxcalancingo PUE 72824
+MX",2022-11-10 19:59:09 UTC,Carol Cázares,SRID=4326;POINT(-98.2623923198 19.0356522985),19.0356523,-98.26239232,13:42,SP17065,,Delivery,Pick-up,1,no,Nonfood,https://web.fulcrumapp.com/photos/view?photos=c3989089-a10a-4da9-a7dc-4ee23b5af5c8,13:42,Street - next to the curbside,no,no,Rear,2,,no,no,,no,no,
+7afa0159-f5aa-4e85-9403-220ec8781e1c,"4410 Calle Camino Real a Cholula
+San Bernardino Tlaxcalancingo PUE 72824
+MX",2022-11-10 19:59:09 UTC,Carol Cázares,SRID=4326;POINT(-98.2631015965 19.0343777044),19.0343777,-98.2631016,13:38,SN64989,,Sales & delivery,Light truck or Van,2,yes,"""Meat (beef, poultry, pork, seafood, etc.)"",Other",https://web.fulcrumapp.com/photos/view?photos=a07f41d8-aed9-46c4-856a-e87145fbeef6,13:40,Dedicated unloading area (Bay),yes,yes,Rear,2,,no,no,,no,no,
+fa6524ba-5644-46a2-8e12-87e92cbb16a6,"4410 Calle Camino Real a Cholula
+San Bernardino Tlaxcalancingo PUE 72824
+MX",2022-11-10 19:59:08 UTC,Carol Cázares,SRID=4326;POINT(-98.2630814799 19.0343920374),19.03439204,-98.26308148,13:34,SN56453,,Delivery,Pick-up,1,no,"""Bakery (bread, cookies, cakes, etc.)""",https://web.fulcrumapp.com/photos/view?photos=e6c67879-803d-4901-94e5-c722f122eed4,13:36,Street - next to the curbside,no,yes,Side,2,,no,no,,no,no,
+c05e7597-d89f-45c9-ab54-b5664ae5e4aa,"4410 Calle Camino Real a Cholula
+San Bernardino Tlaxcalancingo PUE 72824
+MX",2022-11-10 19:59:08 UTC,Carol Cázares,SRID=4326;POINT(-98.2633591724 19.0343689453),19.03436895,-98.26335917,13:31,SN45694,,Sales & delivery,Pick-up,1,no,Produce (fruits & vegetables),https://web.fulcrumapp.com/photos/view?photos=89f18005-1f3c-4c83-8f9d-ff84527d836a,13:31,Street - next to the curbside,no,no,Rear,1,,yes,no,,no,no,
+383d2608-f4e2-4b5e-8ffe-39ba0b3b7925,"4406A Camino Real a San Andrés
+San Bernardino Tlaxcalancingo PUE 72824
+MX",2022-11-10 19:59:08 UTC,Carol Cázares,SRID=4326;POINT(-98.2651511394 19.0346141998),19.0346142,-98.26515114,12:58,SN64573,,Sales & delivery,Pick-up,1,yes,"""Non-alcoholic beverages (water, soda, etc.)""",https://web.fulcrumapp.com/photos/view?photos=3fc9e1de-c6de-43f1-beee-dd2de849f10d,12:58,Street - next to the curbside,no,yes,Rear,1,,yes,no,,no,no,
+0bbc0165-52b0-4cdb-877c-1a7bc6002e97,"4406 Camino Real a San Andrés
+San Bernardino Tlaxcalancingo PUE 72824
+MX",2022-11-10 19:59:07 UTC,Carol Cázares,SRID=4326;POINT(-98.2655785544 19.0347939344),19.03479393,-98.26557855,12:55,TYV935A,,Delivery,Automobile,1,no,"""Paper Goods (paper towels, toilet paper, etc.)""",https://web.fulcrumapp.com/photos/view?photos=a5b6c148-d100-4ef1-a2da-d3e12cf20a9c,12:56,Street - next to the curbside,no,no,Side,1,,no,yes,,no,no,
+54c9871b-2aad-4731-8da6-415a7955cd28,"Camino Real a San Andrés
+San Bernardino Tlaxcalancingo PUE 72824
+MX",2022-11-10 19:59:07 UTC,Carol Cázares,SRID=4326;POINT(-98.2678260562 19.035474225),19.03547423,-98.26782606,12:47,UNL502A,,Delivery,Automobile,1,no,"""Alcoholic beverages (beer, liquor, etc.)""",https://web.fulcrumapp.com/photos/view?photos=1b8042c4-6d37-4f09-bf80-0090143a8e43,12:48,Store's garage,no,no,Rear,3,,no,no,,yes,no,
+09ee2b22-0bcf-413a-80a1-d6d1faf1697e,"San Bernardino Tlaxcalancingo PUE 72824
+MX",2022-11-10 19:59:06 UTC,Carol Cázares,SRID=4326;POINT(-98.2667690982 19.0353028989),19.0353029,-98.2667691,12:42,NZN8789,,Sales & delivery,Automobile,2,no,"""Bakery (bread, cookies, cakes, etc.)""",https://web.fulcrumapp.com/photos/view?photos=abfd9956-5da3-4603-b452-acff2787b38b,12:45,Street - next to the curbside,no,no,Side,2,,no,no,,no,no,
+8afaf0f0-7de8-457c-b165-a36b53363c66,"605 Avenida 5 Oriente
+Puebla PUE 72000
+MX",2022-11-10 18:03:47 UTC,Emilio Garza,SRID=4326;POINT(-98.1953289013 19.0405816752),19.04058168,-98.1953289,11:50,Tuv109a,Coca cola ,Sales (usually small car or motorcycle),Automobile,1,no,"""Non-alcoholic beverages (water, soda, etc.)""",https://web.fulcrumapp.com/photos/view?photos=5992e3af-f1f9-43db-ad32-ce7326d3bbae,12:02,Street - next to the curbside,no,no,Side,0,,no,no,,no,no,
+01ca43a6-1a2e-49f5-b949-749c89263d3b,"414 Avenida 2 Oriente
+Puebla PUE 72000
+MX",2022-11-10 17:57:09 UTC,Emilio Garza,SRID=4326;POINT(-98.1938831401 19.0430459701),19.04304597,-98.19388314,10:25,XE-9923-ª,no ,Delivery,Pick-up,1,no,Nonfood,https://web.fulcrumapp.com/photos/view?photos=a9dd0524-8f3c-4abe-9913-dc4616b2ef77,10:28,Street - next to the curbside,yes,no,Rear,0,,no,no,,no,no,
+e3de2e0f-79f4-4698-a6e4-064aa921a5fb,"102 Boulevard Interamericano
+San Bernardino Tlaxcalancingo PUE 72070
+MX",2022-11-10 17:36:58 UTC,Mariana Sáenz Gómez Ortigoza,SRID=4326;POINT(-98.2743124083 18.9992696699),18.99926967,-98.27431241,11:30,LE-49-828,Bonafont ,Delivery,Heavy duty truck,2,no,"""Non-alcoholic beverages (water, soda, etc.)""",https://web.fulcrumapp.com/photos/view?photos=cb69b3b2-f00d-4339-8b7a-440149a0df02,12:00,Street - next to the curbside,yes,no,Side,0,1,no,no,,no,no,
+75037107-c676-446a-ba1d-ab04881a6f67,"102 Boulevard Interamericano
+San Bernardino Tlaxcalancingo PUE 72070
+MX",2022-11-10 17:36:34 UTC,José López,SRID=4326;POINT(-98.2740617731 18.9994229889),18.99942299,-98.27406177,11:32,SP-12-917,Factory Blinds ,Delivery,Light truck or Van,1,no,Curtains and blinds,https://web.fulcrumapp.com/photos/view?photos=ded0b28d-88b2-460b-b657-695123ecbb3c,11:50,Public parking lot,no,no,Rear,0,1,no,no,,no,no,
+3b3b959a-bc54-4825-8d79-f8e957a0355b,"Boulevard los Reyes
+San Bernardino Tlaxcalancingo PUE 72830
+MX",2022-11-10 17:26:24 UTC,Mariana Sáenz Gómez Ortigoza,SRID=4326;POINT(-98.2656696569 19.0061102975),19.0061103,-98.26566966,11:30,SK-79-911,Coca-cola,Delivery,Heavy duty truck,2,no,"""Non-alcoholic beverages (water, soda, etc.)""",https://web.fulcrumapp.com/photos/view?photos=1ee5abab-5e09-423e-afb2-c1996a4aece2,11:45,Street - next to the curbside,yes,no,Side,1,1,yes,no,,yes,no,
+1464422d-78c5-4cfa-afa6-5bf569e882d2,"6432 9 Avenida del Castillo
+San Bernardino Tlaxcalancingo PUE 72830
+MX",2022-11-10 17:22:47 UTC,Mariana Sáenz Gómez Ortigoza,SRID=4326;POINT(-98.2656102226 19.0059181653),19.00591817,-98.26561022,11:25,SI-79-791,Lyncott,Delivery,Heavy duty truck,2,no,"""Dairy (milk, cheese, etc.)""",https://web.fulcrumapp.com/photos/view?photos=f2988215-8bf5-4b98-bfce-7bf0f5b963e5,11:43,Street - next to the curbside,no,no,Rear,1,1,no,no,,no,no,
+98008626-eea4-4f9a-ab80-de6e7c716207,"Boulevard los Reyes
+San Bernardino Tlaxcalancingo PUE 72830
+MX",2022-11-10 17:21:59 UTC,José López,SRID=4326;POINT(-98.2656470128 19.0060885297),19.00608853,-98.26564701,11:18,SUD-88-59,Maruchan,Delivery,Light truck or Van,2,no,Pasta,https://web.fulcrumapp.com/photos/view?photos=a405f6a7-fdf6-421b-b016-11e132ca3794,11:40,Public parking lot,no,no,Rear,1,1,no,no,,no,no,
+897dd608-be28-4337-b503-5dc70df1e2de,"47 Calle Rincón de Londrés
+San Bernardino Tlaxcalancingo PUE 72830
+MX",2022-11-10 17:12:13 UTC,José López,SRID=4326;POINT(-98.2664863187 19.0041055733),19.00410557,-98.26648632,11:08,SP-35-196,Barcel,Delivery,Light truck or Van,2,no,Snacks,https://web.fulcrumapp.com/photos/view?photos=f826fb0b-9837-4903-9720-b39b7fa103bb,11:40,Public parking lot,no,no,Side,1,1,no,no,,no,no,
+d53e75b4-8ee0-4fa1-9afc-aa6a595f2c4e,"5509 Avenida del Castillo
+San Bernardino Tlaxcalancingo PUE 72830
+MX",2022-11-10 17:07:36 UTC,Mariana Sáenz Gómez Ortigoza,SRID=4326;POINT(-98.2665055835 19.0040782142),19.00407821,-98.26650558,11:30,SN-24-270,La postrería,Delivery,Light truck or Van,1,yes,"""Bakery (bread, cookies, cakes, etc.)"",Other",https://web.fulcrumapp.com/photos/view?photos=c4c72788-b7ca-44ca-8a19-beba8db3ef3b,11:48,Street - next to the curbside,yes,no,Rear,0,,yes,no,,no,no,
+fc071255-4719-452d-9a71-dc93303e5891,"Boulevard Interamericano
+San Bernardino Tlaxcalancingo PUE 72830
+MX",2022-11-10 17:07:23 UTC,José López,SRID=4326;POINT(-98.2748194505 18.9995542997),18.9995543,-98.27481945,11:05,NW-5910-B,Clínica Veterinaria Angelopolis,Delivery,Light truck or Van,2,no,Pets,https://web.fulcrumapp.com/photos/view?photos=9f777625-7781-4e92-bd1e-8a3e82b31f33,11:55,Public parking lot,no,no,Rear,0,,no,no,,no,no,
+f9dd984b-722a-4c26-aaef-d8ad2dff57b6,"5501 Avenida del Castillo
+San Bernardino Tlaxcalancingo PUE 72830
+MX",2022-11-10 17:06:39 UTC,José López,SRID=4326;POINT(-98.2662116407 19.0045138808),19.00451388,-98.26621164,10:40,SN-62-925,Corporativo Industrial ,Delivery,Light truck or Van,1,no,"""Meat (beef, poultry, pork, seafood, etc.)""",https://web.fulcrumapp.com/photos/view?photos=71ba06ab-6e77-44b2-89a3-a61c2857a7f0,11:00,Public parking lot,no,no,Rear,1,1,no,no,,no,no,
+94b03890-ef1b-4e87-bf0d-42bb64babb73,"5501 Avenida del Castillo
+San Bernardino Tlaxcalancingo PUE 72830
+MX",2022-11-10 17:02:34 UTC,Mariana Sáenz Gómez Ortigoza,SRID=4326;POINT(-98.266176348 19.0045315432),19.00453154,-98.26617635,10:55,SN-26-707,La Medina,Delivery,Light truck or Van,1,no,"""Personal care (shampoo, soap, etc.)""",https://web.fulcrumapp.com/photos/view?photos=a1888f7b-fbf3-42c6-a9e9-6ea56138b9d5,11:28,Public parking lot,no,no,Side,1,1,no,no,,no,no,
+0494e54e-1037-4788-9e37-b6bab949011b,"5501 Avenida del Castillo
+San Bernardino Tlaxcalancingo PUE 72830
+MX",2022-11-10 17:01:55 UTC,José López,SRID=4326;POINT(-98.2661956084 19.0044549387),19.00445494,-98.26619561,10:58,LE-98-646,LALA,Delivery,Heavy duty truck,2,yes,"""Dairy (milk, cheese, etc.)""",https://web.fulcrumapp.com/photos/view?photos=0e561950-a6e2-49a6-840e-84f2cb8c2737,11:21,Street - next to the curbside,no,no,Side,1,1,no,no,,no,yes,
+49b79862-d297-4391-bc6e-3e6d8b32d54a,"Boulevard Interamericano
+San Bernardino Tlaxcalancingo PUE 72830
+MX",2022-11-10 16:48:45 UTC,José López,SRID=4326;POINT(-98.2748213411 18.9995738631),18.99957386,-98.27482134,10:47,SP-14-383,Voila ,Delivery,Light truck or Van,1,no,"""Dairy (milk, cheese, etc.)"",Other",https://web.fulcrumapp.com/photos/view?photos=a74c3ed8-f9e7-42da-b7ab-cca51705b954,11:34,Public parking lot,no,no,Rear,0,1,no,no,,no,no,
+7e301ca0-760e-4dbc-bd53-626e4447fb89,"Boulevard Interamericano
+San Bernardino Tlaxcalancingo PUE 72830
+MX",2022-11-10 16:41:18 UTC,Mariana Sáenz Gómez Ortigoza,SRID=4326;POINT(-98.2719573354 19.0018587687),19.00185877,-98.27195734,09:15,SP-07-568,Tintosmart ,Delivery,Light truck or Van,1,no,Clothes,https://web.fulcrumapp.com/photos/view?photos=6d22f315-505d-4694-aeac-f43e14e699ef,11:25,Public parking lot,no,no,Rear,0,,no,no,,no,no,
+be7db0e0-83ad-4486-aa8f-7d31402c2b92,"Boulevard Interamericano
+San Bernardino Tlaxcalancingo PUE 72830
+MX",2022-11-10 16:38:32 UTC,Mariana Sáenz Gómez Ortigoza,SRID=4326;POINT(-98.2719351122 19.001804982),19.00180498,-98.27193511,10:45,30ARU9,Abastessen ,Delivery,Light truck or Van,1,no,"""Meat (beef, poultry, pork, seafood, etc.)""",https://web.fulcrumapp.com/photos/view?photos=60cd11ec-c20e-428d-8411-d4f2a72d6b5b,11:17,Public parking lot,no,no,Rear,1,1,no,no,,no,no,
+27bd6132-61df-496d-b780-9db89359dfc8,"Boulevard Interamericano
+San Bernardino Tlaxcalancingo PUE 72830
+MX",2022-11-10 16:37:34 UTC,José López,SRID=4326;POINT(-98.2718366883 19.0017792847),19.00177928,-98.27183669,10:34,TMK-54-66,La central ,Delivery,Light truck or Van,2,no,Produce (fruits & vegetables),https://web.fulcrumapp.com/photos/view?photos=1d23463a-e5f5-486a-9b78-18799b7b5653,11:00,Public parking lot,no,no,Rear,0,1,no,no,,no,no,
+e648abf8-df90-46a2-af06-ee5d9662078d,"Private Road
+San Bernardino Tlaxcalancingo PUE 72830
+MX",2022-11-10 16:25:35 UTC,Mariana Sáenz Gómez Ortigoza,SRID=4326;POINT(-98.2671270711 19.0054323353),19.00543234,-98.26712707,10:30,UCU-271-A,,Delivery,Automobile,1,no,Produce (fruits & vegetables),https://web.fulcrumapp.com/photos/view?photos=fa3a2d18-26e6-48f7-b693-a67c398559c6,10:48,Street - next to the curbside,no,no,Side,0,1,no,no,,no,no,
+cfb746bd-5e38-4361-9f45-be1af04f11da,"Private Road
+San Bernardino Tlaxcalancingo PUE 72830
+MX",2022-11-10 16:20:02 UTC,Mariana Sáenz Gómez Ortigoza,SRID=4326;POINT(-98.2675894663 19.005672101),19.0056721,-98.26758947,09:30,SM-71-921,Tripoli ,Delivery,Light truck or Van,2,no,Food,"https://web.fulcrumapp.com/photos/view?photos=71317241-3a97-47b5-b10a-89a84773c97e,1b985fd3-1960-46df-b966-67d27c615359",10:15,Public parking lot,no,no,Rear,0,1,no,no,,no,no,
+bdd67e61-886a-45ca-ad5c-2422505548ae,"Private Road
+San Bernardino Tlaxcalancingo PUE 72830
+MX",2022-11-10 16:16:44 UTC,Mariana Sáenz Gómez Ortigoza,SRID=4326;POINT(-98.2676078903 19.0056275995),19.0056276,-98.26760789,09:25,SL-32-364,La Concordia ,Delivery,Heavy duty truck,2,no,Decorations,https://web.fulcrumapp.com/photos/view?photos=8ad9d2eb-a676-4380-87c7-37a43688c34c,11:00,Public parking lot,no,no,Rear,1,,no,no,,no,no,
+a626a0df-ca03-4bc9-b0c7-9d1df43daafa,"Private Road
+San Bernardino Tlaxcalancingo PUE 72830
+MX",2022-11-10 16:16:23 UTC,José López,SRID=4326;POINT(-98.2676258041 19.0056427428),19.00564274,-98.2676258,10:10,72-AX-6J,TUMSA,Delivery,Heavy duty truck,4,yes,"""Bakery (bread, cookies, cakes, etc.)""","https://web.fulcrumapp.com/photos/view?photos=5f3fe3de-1755-4174-ac5b-1241c063a210,708f780b-77f0-4790-886c-8438c0dce063",10:30,Public parking lot,no,no,Side,1,1,no,no,,no,no,
+e5083ea9-1726-4da7-bae0-86ed1cfbc192,"Private Road
+San Bernardino Tlaxcalancingo PUE 72830
+MX",2022-11-10 16:13:01 UTC,Mariana Sáenz Gómez Ortigoza,SRID=4326;POINT(-98.267560852 19.005722126),19.00572213,-98.26756085,10:00,SJ-79-906,,Sales & delivery,Pick-up,2,no,Produce (fruits & vegetables),https://web.fulcrumapp.com/photos/view?photos=d4718352-ddbb-47ad-8031-545c2093ddb9,10:35,Dedicated unloading area (Bay),no,no,Rear,0,,no,no,,no,no,
+ceee2028-433b-40c5-88b1-7260450b06bd,"5501 Avenida del Castillo
+San Bernardino Tlaxcalancingo PUE 72810
+MX",2022-11-10 15:42:35 UTC,José López,SRID=4326;POINT(-98.2673140057 19.0030170232),19.00301702,-98.26731401,09:48,IM-1424,San Pablo ,Delivery,Motorcycle,1,no,"""Personal care (shampoo, soap, etc.)""",https://web.fulcrumapp.com/photos/view?photos=742307e6-18b8-4499-830d-d0524b16babd,09:49,Public parking lot,no,no,Rear,1,,no,no,,no,no,
+119a1eaf-2d72-4792-94dd-23451e9daaec,"5501 Avenida del Castillo
+San Bernardino Tlaxcalancingo PUE 72840
+MX",2022-11-10 15:42:20 UTC,José López,SRID=4326;POINT(-98.2668296994 19.0041137953),19.0041138,-98.2668297,09:36,SN-78-089,Tamales Don Ignacio ,Sales (usually small car or motorcycle),Pick-up,2,no,"""Bakery (bread, cookies, cakes, etc.)""",https://web.fulcrumapp.com/photos/view?photos=6f45e0c4-25db-4689-b118-ffdf21e64116,21:41,Public parking lot,no,no,Rear,0,1,no,no,,no,no,
+819d757b-a60b-400b-b2ab-6d1d2a0d6775,"Avenida Triangulum
+San Bernardino Tlaxcalancingo PUE 72835
+MX",2022-11-10 00:01:27 UTC,Leoncio Mora Díaz,SRID=4326;POINT(-98.2490172869 19.0252949509),19.02529495,-98.24901729,15:59,5448CM,Pepsi,Delivery,Heavy duty truck,3,no,"""Non-alcoholic beverages (water, soda, etc.)""","https://web.fulcrumapp.com/photos/view?photos=781e3bd3-1518-458f-b9f8-4fc39b7c8951,fe4a1345-feee-46f2-8291-c3677513a15e",16:03,Street - next to the curbside,yes,no,Side,1,,no,no,,no,no,
+020550f6-8a3a-4778-a4b6-2bf4595b08a4,"521 Avenida Venustiano Carranza
+San Bernardino Tlaxcalancingo PUE 72836
+MX",2022-11-10 00:01:26 UTC,Leoncio Mora Díaz,SRID=4326;POINT(-98.2494395971 19.0269015047),19.0269015,-98.2494396,15:50,SN72248,,Delivery,Pick-up,1,no,"""Non-alcoholic beverages (water, soda, etc.)""",https://web.fulcrumapp.com/photos/view?photos=ff7b7066-bae3-4ac2-898c-83e6ca67ecbb,15:51,Street - next to the curbside,no,no,Rear,1,,no,no,,no,no,
+bfd5eadb-d5e5-4499-95fe-c4d299588b38,"248 Calle Gustavo Díaz Ordaz
+San Bernardino Tlaxcalancingo PUE 72836
+MX",2022-11-10 00:01:25 UTC,Leoncio Mora Díaz,SRID=4326;POINT(-98.2498399168 19.0264634674),19.02646347,-98.24983992,15:44,97TFG1,,Delivery,Motorcycle,1,no,"""Dairy (milk, cheese, etc.)""","https://web.fulcrumapp.com/photos/view?photos=6b072623-501f-4ed3-b465-73f079659cec,f4a687f5-8027-44c8-941b-0975c5dbbf64",15:46,On top of a sidewalk,yes,no,Side,0,,no,no,,no,no,
+9fe0f2da-28c4-4fe3-bb1b-574276e16560,"217 Calle Gustavo Díaz Ordaz
+San Bernardino Tlaxcalancingo PUE 72836
+MX",2022-11-10 00:01:24 UTC,Leoncio Mora Díaz,SRID=4326;POINT(-98.2499674405 19.0264441666),19.02644417,-98.24996744,15:38,5964A1,Rappi ,Sales & delivery,Motorcycle,1,no,"""Bakery (bread, cookies, cakes, etc.)""","https://web.fulcrumapp.com/photos/view?photos=755f6fcc-eec9-436e-9730-5a30cf1e5846,89425351-9f6a-4ed5-8754-3261107de976",15:40,Street - next to the curbside,no,no,Side,0,,no,no,,no,no,
+59855240-c3e3-4ad1-b96e-0000978ace00,"4–1634 Avenida Venustiano Carranza
+San Bernardino Tlaxcalancingo PUE 72835
+MX",2022-11-10 00:01:24 UTC,Leoncio Mora Díaz,SRID=4326;POINT(-98.2490748167 19.0255766128),19.02557661,-98.24907482,15:19,XB55982,Compañía López ,Sales (usually small car or motorcycle),Light truck or Van,4,no,"""Non-alcoholic beverages (water, soda, etc.)""","https://web.fulcrumapp.com/photos/view?photos=985d3f34-f034-4b3e-a787-a261742152c6,8299f505-c49f-43f0-99a2-68f64a50e0d5",15:22,Street - next to the curbside,no,no,Side,0,,no,no,,no,no,
+d0b61140-d93b-4560-96a3-4e0e8b3e869a,"5509 Avenida del Castillo
+San Bernardino Tlaxcalancingo PUE 72830
+MX",2022-11-10 00:01:18 UTC,José López,SRID=4326;POINT(-98.2665612374 19.0039857829),19.00398578,-98.26656124,08:00,SJ-79-906,La sagrada (frutería),Delivery,Light truck or Van,2,no,Produce (fruits & vegetables),"https://web.fulcrumapp.com/photos/view?photos=8cfa7d58-a4c8-4891-bdb3-84698de7743a,e3c6168c-9238-4e09-8881-f7738113e8c7",16:00,Store's garage,no,no,Rear,1,,no,no,,no,no,
+7b990a50-a423-44ec-b328-4b315c91c032,"59 Calle Rincón de París
+San Bernardino Tlaxcalancingo PUE 72830
+MX",2022-11-10 00:01:17 UTC,José López,SRID=4326;POINT(-98.2662437212 19.0041961042),19.0041961,-98.26624372,10:33,SN-70-192,Tudogar,Delivery,Heavy duty truck,3,no,Hardware store,"https://web.fulcrumapp.com/photos/view?photos=317760a9-484e-4755-b08b-8f08bd34b413,67bf076e-6f04-4405-94c6-51481640d2a4",11:09,Public parking lot,no,no,Rear,1,,no,no,,no,no,
+afd0a431-073c-464f-8277-891031fe5ac8,"47 Calle Rincón de Londrés
+San Bernardino Tlaxcalancingo PUE 72830
+MX",2022-11-10 00:01:17 UTC,José López,SRID=4326;POINT(-98.2662340221 19.0041629876),19.00416299,-98.26623402,10:30,TWC-596-A,Acento Mexicano,Delivery,Light truck or Van,1,no,Flowers,"https://web.fulcrumapp.com/photos/view?photos=96ec7bc7-214b-4a37-8ef8-1c5d6382491a,5b9d3200-e083-407a-b6a4-47ab4888b058",11:00,Public parking lot,yes,no,Rear,1,,no,no,,yes,no,
+1e6230db-2501-40f8-b0b1-58ab4911acff,"47 Calle Rincón de Londrés
+San Bernardino Tlaxcalancingo PUE 72830
+MX",2022-11-10 00:01:16 UTC,José López,SRID=4326;POINT(-98.2662793322 19.0041721213),19.00417212,-98.26627933,10:18,NV-5302-A,Súper Boom,Delivery,Heavy duty truck,2,no,"""Non-alcoholic beverages (water, soda, etc.)""","https://web.fulcrumapp.com/photos/view?photos=b6b044cf-a1ae-45a1-86ff-033e598faee3,9b80dc0e-3931-421b-a1f1-b49a8bdf1f0f",10:40,Street - next to the curbside,no,no,Side,1,,no,no,,no,yes,
+6f77004f-6644-4006-83cb-b9f733828c39,"500 Avenida del Castillo
+San Bernardino Tlaxcalancingo PUE 72830
+MX",2022-11-10 00:01:16 UTC,José López,SRID=4326;POINT(-98.2664003171 19.0046903643),19.00469036,-98.26640032,10:11,XE-4568-A,Magenta ,Delivery,Light truck or Van,1,yes,Flowers,https://web.fulcrumapp.com/photos/view?photos=77738393-036c-49d2-8abe-5c784d3dd09a,10:40,Public parking lot,no,no,Rear,1,,no,no,,no,no,
+642c1e0e-7d94-420b-897a-5cb6706b29f9,"5509 Avenida del Castillo
+San Bernardino Tlaxcalancingo PUE 72830
+MX",2022-11-10 00:01:15 UTC,José López,SRID=4326;POINT(-98.2667735124 19.0039821755),19.00398218,-98.26677351,09:59,SP-35-196,Barcel ,Delivery,Light truck or Van,1,no,"""Bakery (bread, cookies, cakes, etc.)""",https://web.fulcrumapp.com/photos/view?photos=3f8ec420-4fbe-4bdb-a516-e629eaf6f8fe,10:26,Public parking lot,no,no,Rear,1,,no,no,,no,no,
+db1d6420-489b-4485-af34-9d62051db63b,"500 Avenida del Castillo
+San Bernardino Tlaxcalancingo PUE 72830
+MX",2022-11-10 00:01:14 UTC,José López,SRID=4326;POINT(-98.2665526775 19.0044321818),19.00443218,-98.26655268,09:20,A-552AD,Fanasa,Delivery,SUV,2,yes,Fármacos,"https://web.fulcrumapp.com/photos/view?photos=b4a24885-3d7c-47c8-916c-c64fea4c8f2b,d6e31085-e224-448d-8efc-f7a5a64c8110",09:27,Street - next to the curbside,no,no,Side,1,,no,no,,no,no,
+bdbf7953-5464-4419-a75b-54dca2cc4afa,"47 Calle Rincón de Londrés
+San Bernardino Tlaxcalancingo PUE 72830
+MX",2022-11-10 00:00:45 UTC,Mariana Sáenz Gómez Ortigoza,SRID=4326;POINT(-98.2662978391 19.004184923),19.00418492,-98.26629784,10:12,SM-28-393,Clínica Veterinaria ,Delivery,Light truck or Van,1,no,"""Personal care (shampoo, soap, etc.)""",https://web.fulcrumapp.com/photos/view?photos=b5e648b5-4a8d-40a1-9e73-53328cd2ba4e,10:30,Public parking lot,no,no,Side,1,,no,no,,no,no,
+d663b7db-61d0-4f7d-82c8-9c9a7242155a,"Avenida del Castillo
+San Bernardino Tlaxcalancingo PUE 72830
+MX",2022-11-10 00:00:44 UTC,Mariana Sáenz Gómez Ortigoza,SRID=4326;POINT(-98.2669509996 19.0037832421),19.00378324,-98.266951,09:40,SM-11-782,Súper Boom,Delivery,Heavy duty truck,2,no,"""Non-alcoholic beverages (water, soda, etc.)""",https://web.fulcrumapp.com/photos/view?photos=cbe28115-e512-4e5b-87ea-09eef4538acc,10:15,Street - next to the curbside,no,no,Side,1,,no,no,,no,no,
+a5ce5448-57e7-4dd5-a07b-e726c6b12540,"6 Boulevard Licenciado G. Díaz Ordaz
+Tlaxcalancingo Puebla 72810
+México",2022-11-09 23:59:34 UTC,Adriel Antonio Huerta Vidal,SRID=4326;POINT(-98.260704 19.0221294),19.0221294,-98.260704,09:00,SP37423,,Delivery,Pick-up,4,no,Produce (fruits & vegetables),https://web.fulcrumapp.com/photos/view?photos=0694caf9-4df5-4023-806a-6520858e488a,10:56,Street - next to the curbside,no,no,Rear,1,,no,no,,no,no,
+f23f76f3-debc-470d-b5ca-3ad26183baf3,"10 Boulevard Licenciado G. Díaz Ordaz
+Tlaxcalancingo Puebla 72810
+México",2022-11-09 23:59:34 UTC,Adriel Antonio Huerta Vidal,SRID=4326;POINT(-98.2608584 19.0222526),19.0222526,-98.2608584,09:54,SN26022,,Sales & delivery,Pick-up,1,no,"""Bakery (bread, cookies, cakes, etc.)"",""Paper Goods (paper towels, toilet paper, etc.)""",https://web.fulcrumapp.com/photos/view?photos=c51ff611-e59d-4e9f-8616-04d8c1be6f1c,10:30,Street - next to the curbside,no,no,Rear,0,,no,no,,no,no,
+ca1b4057-6628-4b63-8a1f-0864d7b5a8ce,"851 Avenida Orión Sur
+Tlaxcalancingo Puebla 72810
+México",2022-11-09 23:59:33 UTC,Adriel Antonio Huerta Vidal,SRID=4326;POINT(-98.259917 19.0221078),19.0221078,-98.259917,07:52,XB79776,,Sales & delivery,Pick-up,2,no,"""Alcoholic beverages (beer, liquor, etc.)"",""Meat (beef, poultry, pork, seafood, etc.)"",Produce (fruits & vegetables)",https://web.fulcrumapp.com/photos/view?photos=9dcf70f4-69a1-4017-bfe4-0f2ca6200f9a,17:54,Street - next to the curbside,no,no,Rear,1,,no,no,,no,no,
+65966208-4e2f-47cb-a027-901aecab158e,"3 UC1
+Tlaxcalancingo Puebla 72810
+México",2022-11-09 23:59:33 UTC,Adriel Antonio Huerta Vidal,SRID=4326;POINT(-98.2613098 19.0223355),19.0223355,-98.2613098,08:15,HE5614F,,Sales & delivery,Pick-up,4,no,"""Alcoholic beverages (beer, liquor, etc.)"",""Meat (beef, poultry, pork, seafood, etc.)"",""Non-alcoholic beverages (water, soda, etc.)"",Produce (fruits & vegetables)","https://web.fulcrumapp.com/photos/view?photos=75930771-6a88-4fe3-bd8a-fd6f3698e330,1d91e8b6-8e42-417c-8c9a-03f23f6d9eae",18:30,Street - next to the curbside,no,no,Rear,1,,no,no,,no,no,
+59b17d95-11e8-4c02-8c72-467c83008d45,"2 UC1
+Tlaxcalancingo Puebla 72810
+México",2022-11-09 23:59:32 UTC,Adriel Antonio Huerta Vidal,SRID=4326;POINT(-98.2614833 19.0224584),19.0224584,-98.2614833,07:23,XB79776,,Sales & delivery,Pick-up,2,no,"""Alcoholic beverages (beer, liquor, etc.)"",""Bakery (bread, cookies, cakes, etc.)"",""Meat (beef, poultry, pork, seafood, etc.)"",""Non-alcoholic beverages (water, soda, etc.)""",https://web.fulcrumapp.com/photos/view?photos=c9056cf3-0f08-4f50-bed0-7adaa1ae258a,17:24,Street - next to the curbside,no,no,Rear,1,,no,no,,no,no,
+e9ecb408-fb5c-44d4-889b-be1653ffcef0,"340 Boulevard Gustavo Díaz Ordaz
+Tlaxcalancingo Puebla 72810
+México",2022-11-09 23:59:32 UTC,Adriel Antonio Huerta Vidal,SRID=4326;POINT(-98.2615151 19.0226014),19.0226014,-98.2615151,08:20,31TEU1,,Sales & delivery,Motorcycle,1,no,"""Meat (beef, poultry, pork, seafood, etc.)"",""Non-alcoholic beverages (water, soda, etc.)""",https://web.fulcrumapp.com/photos/view?photos=6c39765e-5970-43ce-b7c4-e728d315213b,16:21,On top of a sidewalk,no,no,Rear,0,,no,no,,no,no,
+46479b94-5add-4c12-83b9-0eefe0c36a07,"451 Boulevard Gustavo Díaz Ordaz
+Tlaxcalancingo Puebla 72810
+México",2022-11-09 23:59:31 UTC,Adriel Antonio Huerta Vidal,SRID=4326;POINT(-98.2615813 19.0225792),19.0225792,-98.2615813,11:19,F77BV,,Sales & delivery,Motorcycle,1,no,Produce (fruits & vegetables),https://web.fulcrumapp.com/photos/view?photos=c3511268-248a-4948-a41d-af7d4e648d69,13:20,On top of a sidewalk,no,no,Rear,0,,no,no,,no,no,
+ae7f7abb-1295-4017-ba13-d7509b5cfb96,"105 Marte
+Tlaxcalancingo Puebla 72810
+México",2022-11-09 23:59:31 UTC,Adriel Antonio Huerta Vidal,SRID=4326;POINT(-98.2625225 19.0196414),19.0196414,-98.2625225,11:16,76ERH9,,Sales (usually small car or motorcycle),Motorcycle,1,no,"""Meat (beef, poultry, pork, seafood, etc.)""",https://web.fulcrumapp.com/photos/view?photos=bc967e0c-e372-4175-bac2-f88ca02c2a03,11:24,Street - next to the curbside,no,no,Rear,0,,no,no,,no,no,
+4aced0bd-0fb6-4d7e-838c-57bd75f6905c,"81 Marte
+Tlaxcalancingo Puebla 72810
+México",2022-11-09 23:59:30 UTC,Adriel Antonio Huerta Vidal,SRID=4326;POINT(-98.262539 19.0190991),19.0190991,-98.262539,08:35,SP29935,,Sales & delivery,Pick-up,4,no,"""Alcoholic beverages (beer, liquor, etc.)"",""Bakery (bread, cookies, cakes, etc.)"",""Meat (beef, poultry, pork, seafood, etc.)"",""Non-alcoholic beverages (water, soda, etc.)"",Produce (fruits & vegetables)","https://web.fulcrumapp.com/photos/view?photos=5ea6fba0-a6e4-4682-af95-80986150fc57,f028cd88-4b97-406c-9f6d-49f810b48db8",17:14,Street - next to the curbside,no,no,Rear,1,,no,no,,no,no,
+a05b3520-f314-4272-9cbb-ffbd12c2f478,"563 Avenida Orión Sur
+San Andrés Cholula Puebla 72825
+México",2022-11-09 23:59:30 UTC,Adriel Antonio Huerta Vidal,SRID=4326;POINT(-98.2611618 19.0199367),19.0199367,-98.2611618,08:18,SK25778,,Sales & delivery,Pick-up,2,no,"""Alcoholic beverages (beer, liquor, etc.)"",""Bakery (bread, cookies, cakes, etc.)"",""Meat (beef, poultry, pork, seafood, etc.)"",""Non-alcoholic beverages (water, soda, etc.)"",Produce (fruits & vegetables)",https://web.fulcrumapp.com/photos/view?photos=03919f82-4299-4cb4-a95a-fbb252e41a33,15:11,Street - next to the curbside,no,no,Rear,1,,no,no,,yes,no,
+e3efcbed-84d5-44be-9113-acff71646a25,"543A Avenida Orión Sur
+Tlaxcalancingo Puebla 72810
+México",2022-11-09 23:59:29 UTC,Adriel Antonio Huerta Vidal,SRID=4326;POINT(-98.2610105 19.0203189),19.0203189,-98.2610105,08:09,2894I,,Sales & delivery,Motorcycle,1,no,"""Bakery (bread, cookies, cakes, etc.)"",Produce (fruits & vegetables)",https://web.fulcrumapp.com/photos/view?photos=25df4da0-f1df-47b3-84a3-45547999b885,00:09,Street - next to the curbside,no,no,Rear,1,,no,no,,no,no,
+f2194813-4114-4b07-9e73-9e7931e278c3,,2022-11-09 23:59:29 UTC,Adriel Antonio Huerta Vidal,SRID=4326;POINT(-98.255475 19.0271875),19.0271875,-98.255475,09:03,XB20969,,Sales & delivery,Pick-up,2,no,"""Bakery (bread, cookies, cakes, etc.)"",""Meat (beef, poultry, pork, seafood, etc.)"",""Non-alcoholic beverages (water, soda, etc.)"",Produce (fruits & vegetables)",https://web.fulcrumapp.com/photos/view?photos=f04d65e8-ac37-40b2-8ec0-03d880e8290b,02:04,Street - next to the curbside,no,no,Rear,1,,no,no,,yes,no,
+fd4ac2f1-4b61-4853-aaf3-4ae0ffb240d0,"1017D Calle Mira
+Tlaxcalancingo Puebla 72197
+México",2022-11-09 23:59:28 UTC,Adriel Antonio Huerta Vidal,SRID=4326;POINT(-98.2551571 19.0283016),19.0283016,-98.2551571,09:00,622-WMX,,Sales & delivery,Automobile,2,no,"""Bakery (bread, cookies, cakes, etc.)"",""Meat (beef, poultry, pork, seafood, etc.)"",Produce (fruits & vegetables)",https://web.fulcrumapp.com/photos/view?photos=ce118eb2-cd58-4140-8536-17d4049e0c6a,01:01,Street - next to the curbside,no,no,Rear,1,,no,no,,no,no,
+056ec771-c48f-4021-b8dd-85016b69a2c6,"3068 Calle Orión Norte
+Tlaxcalancingo Puebla 72197
+México",2022-11-09 23:59:26 UTC,Adriel Antonio Huerta Vidal,SRID=4326;POINT(-98.2564437 19.0295166),19.0295166,-98.2564437,10:55,HGK203A,,Sales (usually small car or motorcycle),Automobile,2,no,"""Bakery (bread, cookies, cakes, etc.)"",""Non-alcoholic beverages (water, soda, etc.)""",https://web.fulcrumapp.com/photos/view?photos=ccd951df-cbfc-4bed-912d-95fb66f118d2,01:35,Street - next to the curbside,no,no,Rear,1,,no,no,,no,no,
+575833b2-4bd7-4eb2-9216-dd6383f01001,"720 Calle Orión Norte
+Tlaxcalancingo Puebla 72810
+México",2022-11-09 23:59:25 UTC,Adriel Antonio Huerta Vidal,SRID=4326;POINT(-98.258336 19.027931),19.027931,-98.258336,10:33,GJZ2J,,Sales (usually small car or motorcycle),Motorcycle,1,no,"""Meat (beef, poultry, pork, seafood, etc.)"",Produce (fruits & vegetables)","https://web.fulcrumapp.com/photos/view?photos=76272814-8b16-4d4d-8728-177258a183d1,f811e5fe-79e9-439e-88fe-12585dad958d",14:53,Street - next to the curbside,no,yes,Rear,1,,no,no,,no,no,
+0dd3bd22-6c62-47b7-a25e-735959b7cc13,"966 Calle Orión Norte
+Tlaxcalancingo Puebla 72810
+México",2022-11-09 23:59:25 UTC,Adriel Antonio Huerta Vidal,SRID=4326;POINT(-98.2614064 19.0240386),19.0240386,-98.2614064,10:48,GJK71A,,Sales (usually small car or motorcycle),Motorcycle,1,no,"""Meat (beef, poultry, pork, seafood, etc.)""",https://web.fulcrumapp.com/photos/view?photos=2eb997b3-6629-48d8-9435-d3efb5bf675d,14:48,Street - next to the curbside,no,no,Side,0,,no,no,,no,no,
+cf894032-717d-4874-bd8a-6ceed1147269,"6 Avenida Orion Norte
+Tlaxcalancingo Puebla 72197
+México",2022-11-09 23:59:24 UTC,Adriel Antonio Huerta Vidal,SRID=4326;POINT(-98.2614156 19.0239537),19.0239537,-98.2614156,10:46,1H3YD,,Sales (usually small car or motorcycle),Motorcycle,1,no,"""Meat (beef, poultry, pork, seafood, etc.)""",https://web.fulcrumapp.com/photos/view?photos=2f9a9456-791e-4dbb-a0ee-6a679a620060,14:52,Street - next to the curbside,no,no,Side,0,,no,no,,no,no,
+4cd091cd-d37c-4bbe-9cda-2af711884231,"11 Serafines
+Tlaxcalancingo Puebla 72810
+México",2022-11-09 23:59:24 UTC,Adriel Antonio Huerta Vidal,SRID=4326;POINT(-98.2610514 19.0246879),19.0246879,-98.2610514,09:10,SN-77-136,,Delivery,Light truck or Van,2,no,"""Bakery (bread, cookies, cakes, etc.)"",""Meat (beef, poultry, pork, seafood, etc.)""",https://web.fulcrumapp.com/photos/view?photos=215a5718-c2a9-4917-84fa-f1c21b29a405,14:30,Street - next to the curbside,no,no,Rear,1,,no,no,,no,no,
+d7c4d4f6-17e8-42e1-94d6-e2afb9ff95de,"10 Boulevard Licenciado G. Díaz Ordaz
+Tlaxcalancingo Puebla 72810
+México",2022-11-09 23:59:23 UTC,Adriel Antonio Huerta Vidal,SRID=4326;POINT(-98.2608733 19.0223633),19.0223633,-98.2608733,10:57,SC-1394-C,,Delivery,Light truck or Van,2,no,"""Dairy (milk, cheese, etc.)""",https://web.fulcrumapp.com/photos/view?photos=e3f3c030-a405-45ea-a950-c7fcad6237f2,11:10,Street - next to the curbside,yes,no,Rear,1,,no,no,,yes,no,
+b11d4824-82e7-4a6f-9f4e-d903d991ca94,"4B Boulevard Licenciado G. Díaz Ordaz
+Tlaxcalancingo Puebla 72810
+México",2022-11-09 23:59:23 UTC,Adriel Antonio Huerta Vidal,SRID=4326;POINT(-98.2605816 19.022034),19.022034,-98.2605816,10:58,XL-6899-A,,Delivery,Automobile,2,no,Produce (fruits & vegetables),https://web.fulcrumapp.com/photos/view?photos=5b70cc55-fc8e-423f-8564-a34b0963c717,11:36,Street - next to the curbside,yes,no,Rear,0,,no,no,,yes,yes,
+1d41755a-bd38-4134-9e70-bdd8750603ab,"1 Uc II
+Tlaxcalancingo Puebla 72810
+México",2022-11-09 23:59:22 UTC,Adriel Antonio Huerta Vidal,SRID=4326;POINT(-98.2605728 19.022007),19.022007,-98.2605728,09:10,SN-77-820,,Delivery,Automobile,5,no,"""Bakery (bread, cookies, cakes, etc.)""",https://web.fulcrumapp.com/photos/view?photos=b9a2982d-2fe3-4fe3-b664-84670f689b57,14:00,Street - next to the curbside,no,no,Rear,2,,no,no,,no,no,
+3c3bdaef-823f-4a7a-ab1b-9392b933c628,"4 Querubines
+Tlaxcalancingo Puebla 72810
+México",2022-11-09 23:59:22 UTC,Adriel Antonio Huerta Vidal,SRID=4326;POINT(-98.2604477 19.0220533),19.0220533,-98.2604477,10:56,OPU-213,,Delivery,Light truck or Van,3,no,"""Non-alcoholic beverages (water, soda, etc.)""",https://web.fulcrumapp.com/photos/view?photos=6e79234b-9d70-4cf7-971c-25b0205637a6,10:12,Street - next to the curbside,yes,no,Side,2,,no,no,,yes,no,
+ac6e6a8c-23c2-4e96-bfb4-48f84ee3df5c,"15 San Martín Texmelucan
+Heroica Puebla de Zaragoza Puebla 72160
+Mexico",2022-11-09 23:58:28 UTC,Juan Carlos Bejarano Moreno,SRID=4326;POINT(-98.2280428 19.059749),19.059749,-98.2280428,09:15,No disponible ,No,Delivery,Light truck or Van,2,yes,"Nonfood,Produce (fruits & vegetables)",https://web.fulcrumapp.com/photos/view?photos=a40cf3d4-c4b8-44e1-bb42-289691a21dfb,09:32,Street - next to the curbside,yes,no,Rear,0,,no,no,,no,no,
+2fe520ae-68e7-47e3-ba73-f3a9f61a7a53,"130 Calle 55 Sur
+Heroica Puebla de Zaragoza Puebla 72160
+Mexico",2022-11-09 23:58:28 UTC,Juan Carlos Bejarano Moreno,SRID=4326;POINT(-98.2346855 19.0626148),19.0626148,-98.2346855,09:00,Xx54116,Pepsi,Delivery,Heavy duty truck,1,no,"""Non-alcoholic beverages (water, soda, etc.)""","https://web.fulcrumapp.com/photos/view?photos=0c00a4e2-acaf-4332-8862-a1bfd5ccd499,71cb137e-77da-49ea-b865-6eda3a51d20d",09:25,Street - next to the curbside,no,no,Side,2,,no,no,,no,no,
+30592f94-7c26-4d87-932e-a91c1e3b436a,"23 Calle Oriental
+Heroica Puebla de Zaragoza Puebla 72160
+Mexico",2022-11-09 23:58:27 UTC,Juan Carlos Bejarano Moreno,SRID=4326;POINT(-98.2320416 19.0565655),19.0565655,-98.2320416,08:55,SH61529,Astrett,Sales (usually small car or motorcycle),Pick-up,2,no,Nonfood,"https://web.fulcrumapp.com/photos/view?photos=6b19dfb9-498c-4c8b-ac0c-500d8895c498,bd1dec23-112b-4329-906f-1795368869a6",09:15,Store's garage,no,no,Rear,0,,no,no,,no,no,
+cd694ab5-be33-4785-875e-d543310f4fcb,"no. 85 Avenida Teziutlan Norte
+Heroica Puebla de Zaragoza Puebla 72160
+Mexico",2022-11-09 23:58:26 UTC,Juan Carlos Bejarano Moreno,SRID=4326;POINT(-98.2294284 19.0578975),19.0578975,-98.2294284,08:01,22J 221,Lala,Delivery,Light truck or Van,2,yes,"""Dairy (milk, cheese, etc.)""","https://web.fulcrumapp.com/photos/view?photos=74ba2ea2-b1d7-409f-b337-fd1e6b242949,193d2f14-b2db-4689-85e4-d22b69f6888a",08:25,Public parking lot,no,no,Side,0,,no,no,,no,no,
+e806e605-ea7a-4fca-9c3a-471126f1e359,"9005 Calle Sierra de Guadarrama
+Puebla PUE 72220
+MX",2022-11-09 23:19:15 UTC,Amaranta Hernández,SRID=4326;POINT(-98.1646579877 19.0703939264),19.07039393,-98.16465799,12:00,SN-21-441,,Delivery,Pick-up,2,no,"""Alcoholic beverages (beer, liquor, etc.)""",https://web.fulcrumapp.com/photos/view?photos=a4ed5227-f1ed-4bc6-b94d-d96af5acd02a,12:25,Street - next to the curbside,no,no,Rear,0,,no,no,,yes,no,
+5fe81df3-4f0f-4539-962e-32a81feb5010,"9013 Calle Sierra de los Pirineos
+Puebla PUE 72220
+MX",2022-11-09 23:19:14 UTC,Amaranta Hernández,SRID=4326;POINT(-98.168082498 19.0732125097),19.07321251,-98.1680825,11:00,XU-58-302,Pepsi ,Delivery,Heavy duty truck,2,no,"""Non-alcoholic beverages (water, soda, etc.)""",https://web.fulcrumapp.com/photos/view?photos=fae31521-2664-401b-84ec-dcc8c4333e60,11:53,Street - next to the curbside,no,no,Side,2,,no,no,,no,no,
+dd5d90f2-f8d5-4cc1-8112-f92ccb29be5f,"60 Avenida Adolfo López Mateos
+Heroica Puebla de Zaragoza Puebla 72210
+México",2022-11-09 23:13:44 UTC,Benjamin Barbosa,SRID=4326;POINT(-98.1736208 19.0741106),19.0741106,-98.1736208,14:45,SN47814,CAMPRA,Delivery,Light truck or Van,2,yes,"""Meat (beef, poultry, pork, seafood, etc.)""",https://web.fulcrumapp.com/photos/view?photos=b6b59631-b9ee-4892-b509-c6a87c6c7b54,14:55,Street - next to the curbside,no,no,Rear,0,,no,no,,no,no,
+ee4bc4d4-c40e-4641-ad95-19002d102ed7,"64 Calle Gustavo Díaz Ordaz
+Heroica Puebla de Zaragoza Puebla 72210
+México",2022-11-09 23:13:43 UTC,Benjamin Barbosa,SRID=4326;POINT(-98.1732126 19.0744375),19.0744375,-98.1732126,14:15,SM29511,DIAGONAL,Delivery,Heavy duty truck,1,no,Nonfood,https://web.fulcrumapp.com/photos/view?photos=fd1731a1-073c-4206-bbad-41af9665bcf3,14:39,Street - next to the curbside,no,no,Rear,0,,no,no,,no,no,
+cd9a3f38-6fef-4482-8415-bf54c87f24c2,"9002 Avenida Montes Urales
+Heroica Puebla de Zaragoza Puebla 72220
+México",2022-11-09 23:13:42 UTC,Benjamin Barbosa,SRID=4326;POINT(-98.1669184193 19.0716791683),19.07167917,-98.16691842,09:39,LC41549,No,Delivery,Light truck or Van,1,no,"Abarrotes,Nonfood",https://web.fulcrumapp.com/photos/view?photos=6dbb3efb-1e8a-4581-9702-6755ee705569,09:42,Street - next to the curbside,no,no,Rear,0,,no,no,,no,no,
+dda5dde0-71ac-4d49-a19d-f9194bf76666,"502 Avenida Venustiano Carranza
+San Bernardino Tlaxcalancingo PUE 72836
+MX",2022-11-09 23:06:35 UTC,Juan Spínola,SRID=4326;POINT(-98.2493552651 19.0270377923),19.02703779,-98.24935527,16:01,SP01196,,Delivery,Pick-up,1,no,"""Personal care (shampoo, soap, etc.)""",https://web.fulcrumapp.com/photos/view?photos=78ac95a9-8f4b-434d-b69d-6bf394a89887,16:09,Double lane,no,no,Rear,0,1,no,no,,no,no,
+a9127e52-7cd5-4a1f-a966-40be4d30a1ae,"9002–9026 Avenida Montes Urales
+Puebla de Zaragoza PUE 72220
+MX",2022-11-09 22:54:24 UTC,Pedro Contreras,SRID=4326;POINT(-98.1667601887 19.0719245551),19.07192456,-98.16676019,15:34,HB-1797-D,,Delivery,Pick-up,1,no,Produce (fruits & vegetables),https://web.fulcrumapp.com/photos/view?photos=71e698ee-cabb-46d1-8b29-172b3619a65d,15:37,Street - next to the curbside,no,no,Side,0,,no,no,,no,no,
+11b90772-fb69-429f-a47f-888536a84e53,"2036 Pirineos
+Heroica Puebla de Zaragoza Puebla 72220
+México",2022-11-09 22:53:33 UTC,Alejandro Matias,SRID=4326;POINT(-98.1674194 19.0747741),19.0747741,-98.1674194,15:17,SL-51-096,,Sales & delivery,Automobile,2,no,"""Non-alcoholic beverages (water, soda, etc.)""",https://web.fulcrumapp.com/photos/view?photos=57a87527-e726-4c39-a082-6eea60665a5d,15:17,Street - next to the curbside,no,no,Side,0,,no,no,,no,no,
+5be93e0a-207d-4d79-aeed-b1efb58471f0,"2013 Privada Sierra Tarahumara
+Heroica Puebla de Zaragoza Puebla 72220
+México",2022-11-09 22:53:32 UTC,Alejandro Matias,SRID=4326;POINT(-98.1694718 19.0726389),19.0726389,-98.1694718,15:04,SN-56-425,RojoTomate,Sales & delivery,Light truck or Van,1,yes,Produce (fruits & vegetables),https://web.fulcrumapp.com/photos/view?photos=51322add-15c7-4da4-9910-840792af9ee1,15:10,Street - next to the curbside,no,no,Rear,0,,yes,no,,no,no,
+4b32a702-cb43-4e73-9cab-dd112f94f938,,2022-11-09 22:53:32 UTC,Alejandro Matias,SRID=4326;POINT(-98.1734403 19.0746375),19.0746375,-98.1734403,13:50,SP-27-463,MiCaja,Delivery,Light truck or Van,1,no,Carton,https://web.fulcrumapp.com/photos/view?photos=3f98095b-929e-424e-84c0-f217afc1579f,14:38,Street - next to the curbside,no,no,Rear,0,,no,no,,no,no,
+65676b01-d050-4548-be4e-7df1baf080fc,"2225 Cordillera Central
+Heroica Puebla de Zaragoza Puebla 72220
+México",2022-11-09 22:53:31 UTC,Alejandro Matias,SRID=4326;POINT(-98.1673744 19.0722369),19.0722369,-98.1673744,12:49,XV-58-304,Pepsi,Delivery,Heavy duty truck,2,no,"""Non-alcoholic beverages (water, soda, etc.)""",https://web.fulcrumapp.com/photos/view?photos=83a5f4ab-e9e7-4574-bfb7-57ae6eb3fe30,12:54,Street - next to the curbside,no,no,Side,1,,no,no,,no,no,
+82f1047c-6277-4b79-8357-5968a5ad6683,"9002b Avenida Montes Urales
+Heroica Puebla de Zaragoza Puebla 72220
+México",2022-11-09 22:53:31 UTC,Alejandro Matias,SRID=4326;POINT(-98.1666132 19.0720063),19.0720063,-98.1666132,12:37,SN-29-824,,Delivery,Light truck or Van,1,no,Produce (fruits & vegetables),https://web.fulcrumapp.com/photos/view?photos=79eb3e1d-446a-4ee5-92eb-d8c329cee12c,12:27,Street - next to the curbside,no,no,Rear,0,,no,no,,no,no,
+28a2af8e-8b1d-4acf-a077-0945049e826c,"Avenida Venustiano Carranza
+San Bernardino Tlaxcalancingo PUE 72835
+MX",2022-11-09 22:22:20 UTC,Luis Lara,SRID=4326;POINT(-98.2490182389 19.0251449542),19.02514495,-98.24901824,16:12,SP-14-374,Pepsi ,Delivery,Light truck or Van,2,no,"""Non-alcoholic beverages (water, soda, etc.)""",https://web.fulcrumapp.com/photos/view?photos=76f3abb9-8a70-409b-81bd-699d7bf819bb,16:21,Street - next to the curbside,no,no,Side,2,1,no,no,,no,no,
+4d4b0cc1-d4c4-45f7-b756-b4a5fcb68066,"2417 Calle Cordillera de los Balcanes
+Puebla de Zaragoza PUE 72220
+MX",2022-11-09 21:33:20 UTC,Pedro Contreras,SRID=4326;POINT(-98.1653164377 19.0721117517),19.07211175,-98.16531644,15:29,K44-KYG,,Delivery,Automobile,1,no,"""Dairy (milk, cheese, etc.)"",""Meat (beef, poultry, pork, seafood, etc.)"",Produce (fruits & vegetables)",https://web.fulcrumapp.com/photos/view?photos=56358cef-edad-44e0-9e88-8e96d1071f9c,15:32,Street - next to the curbside,no,no,Rear,0,,no,no,,no,no,
+729aac9c-aa70-4c64-8f6a-851a292e81d0,"9034–9054 Avenida Montes Urales
+Puebla de Zaragoza PUE 72220
+MX",2022-11-09 21:28:01 UTC,Pedro Contreras,SRID=4326;POINT(-98.1657873523 19.0730388751),19.07303888,-98.16578735,15:23,SM-58-725,MADIASA-CAT,Sales & delivery,Pick-up,1,no,Wheels,https://web.fulcrumapp.com/photos/view?photos=db87d895-1672-4da3-972d-e19059b714fb,15:24,Double lane,yes,no,Rear,0,,no,no,,no,no,
+ce86c98a-8030-40df-8f05-560060cfa052,"2036 Privada Alpes
+Puebla de Zaragoza PUE 72220
+MX",2022-11-09 21:19:15 UTC,Pedro Contreras,SRID=4326;POINT(-98.1674315757 19.0747634793),19.07476348,-98.16743158,15:17,KZ-86-754,GUERRERAS,Sales & delivery,Light truck or Van,1,no,Tortilla,https://web.fulcrumapp.com/photos/view?photos=7a29c022-5057-4e02-96ae-9a9200db92a5,15:20,Double lane,no,no,Rear,0,,no,no,,no,no,
+3ea58be8-511d-4896-bb12-94d1bd7e7fef,"2002–2028 Privada Sierra Tarahumara
+Puebla de Zaragoza PUE 72220
+MX",2022-11-09 21:05:58 UTC,Pedro Contreras,SRID=4326;POINT(-98.1695359843 19.0728531297),19.07285313,-98.16953598,15:04,N/A,,Delivery,SUV,1,no,Nonfood,https://web.fulcrumapp.com/photos/view?photos=266c4d6a-1008-4da3-81d8-77fc8ad60b62,15:07,Street - next to the curbside,no,no,Rear,0,,yes,no,,no,no,
+7f7d6c0d-07ac-4465-bdb1-7646df716929,"Avenida Prolongación Tecnológico
+Puebla de Zaragoza PUE 72220
+MX",2022-11-09 21:03:58 UTC,Pedro Contreras,SRID=4326;POINT(-98.1701053028 19.0724586602),19.07245866,-98.1701053,15:01,SN-22-290,,Sales & delivery,SUV,1,no,Nonfood,https://web.fulcrumapp.com/photos/view?photos=db24b1df-55a7-4e5d-bb6d-93af85780978,15:03,Street - next to the curbside,yes,no,Rear,0,,no,no,,no,no,
+1c566bed-bbc4-47a7-88d2-8d00dc535bcf,"11 Avenida Aquiles Serdán
+San Bernardino Tlaxcalancingo PUE 72836
+MX",2022-11-09 21:00:32 UTC,Luis Lara,SRID=4326;POINT(-98.2500988339 19.0307618352),19.03076184,-98.25009883,14:45,TME-046,Tecate ,Delivery,Heavy duty truck,2,no,"""Alcoholic beverages (beer, liquor, etc.)""",https://web.fulcrumapp.com/photos/view?photos=d2f15643-861e-4128-a1a2-67153fcc2f2c,14:59,Street - next to the curbside,no,no,Rear,2,1,yes,no,,no,no,
+8f7775ce-161e-47ae-8f03-063ecac52fc8,"2 Avenida Venustiano Carranza
+San Bernardino Tlaxcalancingo PUE 72836
+MX",2022-11-09 20:57:52 UTC,Juan Spínola,SRID=4326;POINT(-98.2498263765 19.0307312402),19.03073124,-98.24982638,14:48,SP45032,,Delivery,Light truck or Van,1,yes,Produce (fruits & vegetables),https://web.fulcrumapp.com/photos/view?photos=5a38fc3a-8db4-4394-9a25-7fda69c79d72,14:57,Store's garage,no,no,Rear,0,1,yes,no,,no,no,
+d39f0ba1-02e9-4530-8c7d-3bc21f595a8b,"501 Avenida las Margaritas
+Puebla de Zaragoza PUE 72450
+MX",2022-11-09 20:52:03 UTC,Saúl Cuervo,SRID=4326;POINT(-98.2210329083 19.014630192),19.01463019,-98.22103291,13:50,RX-55-661,Bimbo,Delivery,Light truck or Van,1,no,"""Bakery (bread, cookies, cakes, etc.)""",https://web.fulcrumapp.com/photos/view?photos=d709ce17-cc33-471c-acf6-2ad5186e5e79,14:15,Street - next to the curbside,no,no,Rear,1,,no,no,,no,yes,2
+6d2ada32-9b18-44e0-97e6-97338e174994,"42 Avenida Adolfo López Mateos
+Puebla de Zaragoza PUE 72210
+MX",2022-11-09 20:44:48 UTC,Pedro Contreras,SRID=4326;POINT(-98.1744661668 19.0747364535),19.07473645,-98.17446617,14:41,TYR-35-52,,Delivery,Light truck or Van,2,no,Produce (fruits & vegetables),https://web.fulcrumapp.com/photos/view?photos=d58967f7-6a07-438c-9ffd-94436687ec2d,16:00,Street - next to the curbside,no,no,Rear,0,,no,no,,no,no,
+227091c9-d136-428b-b0dd-f205f0675832,"164–1626 Avenida Venustiano Carranza
+San Bernardino Tlaxcalancingo PUE 72835
+MX",2022-11-09 20:43:23 UTC,Juan Spínola,SRID=4326;POINT(-98.2490972742 19.0251680226),19.02516802,-98.24909727,14:29,SP29776,Gamesa,Delivery,Light truck or Van,1,no,"""Bakery (bread, cookies, cakes, etc.)""",https://web.fulcrumapp.com/photos/view?photos=b423e1c3-8ea2-42dc-b097-666488ddefeb,14:35,Street - next to the curbside,no,no,Side,0,1,no,no,,no,no,
+02fdc4b9-3d48-42db-8f53-dfca7d8972c0,"47 Avenida Citlaltépetl
+Puebla de Zaragoza PUE 72210
+MX",2022-11-09 20:37:51 UTC,Pedro Contreras,SRID=4326;POINT(-98.1735500735 19.0744410853),19.07444109,-98.17355007,14:35,239-DV-3,Pitic,Sales & delivery,Heavy duty truck,2,no,"""Paper Goods (paper towels, toilet paper, etc.)""",https://web.fulcrumapp.com/photos/view?photos=99af1b0e-b63a-4e67-b1b3-f8d1df5ee915,14:45,Street - next to the curbside,no,no,Rear,0,,yes,no,,no,no,
+df4c1636-1fd6-4787-a0b6-f92a5042177a,"65 Calle General Lázaro Cárdenas
+Puebla de Zaragoza PUE 72210
+MX",2022-11-09 20:35:07 UTC,Pedro Contreras,SRID=4326;POINT(-98.172453718 19.0744117775),19.07441178,-98.17245372,14:18,758-DE-7,Grumavy,Delivery,Heavy duty truck,5,no,Metal,https://web.fulcrumapp.com/photos/view?photos=fe809634-373c-480c-8e88-e7a4cb528c7a,14:50,Street - next to the curbside,no,no,Rear,0,,yes,no,,no,no,
+febd53d0-6c61-4512-9fd6-99a096894d04,"1–27 Avenida Malintzi
+Puebla de Zaragoza PUE 72210
+MX",2022-11-09 20:27:08 UTC,Pedro Contreras,SRID=4326;POINT(-98.1708208659 19.0761653055),19.07616531,-98.17082087,14:24,XE-6383-A,Fastenal,Sales (usually small car or motorcycle),Pick-up,1,no,Tools,https://web.fulcrumapp.com/photos/view?photos=9ea13715-d8d1-47d8-a5a0-de6ab7f39856,14:26,Street - next to the curbside,no,no,Rear,0,,no,no,,no,no,
+68fd022b-56cf-40f1-b34c-e9a77d6cc466,"2213 Calle Cordillera Central
+Puebla de Zaragoza PUE 72220
+MX",2022-11-09 18:58:55 UTC,Pedro Contreras,SRID=4326;POINT(-98.1672783383 19.0721686464),19.07216865,-98.16727834,12:51,TNH-542-B,,Sales & delivery,Automobile,1,no,"""Non-alcoholic beverages (water, soda, etc.)""",https://web.fulcrumapp.com/photos/view?photos=5ec33622-21f7-4e55-8e4a-7e92cc40fcfd,12:52,Street - next to the curbside,no,no,Rear,0,,yes,no,,no,no,
+5b02a047-35ed-4b67-b063-4f095bba9b14,"2218–2234 Calle Cordillera Central
+Puebla de Zaragoza PUE 72220
+MX",2022-11-09 18:48:24 UTC,Pedro Contreras,SRID=4326;POINT(-98.1669909229 19.0719752759),19.07197528,-98.16699092,12:40,XWA-636-A,Coca-Cola,Sales (usually small car or motorcycle),Automobile,1,no,"""Non-alcoholic beverages (water, soda, etc.)""",https://web.fulcrumapp.com/photos/view?photos=00bc6ac8-a514-436b-b9cb-81fb53e5f71e,12:41,Street - next to the curbside,no,no,Side,0,,no,no,,no,no,
+faaa3bf6-0aa1-4ad9-9395-77e654228cc2,"9006 Avenida Montes Urales
+Puebla de Zaragoza PUE 72220
+MX",2022-11-09 18:39:13 UTC,Pedro Contreras,SRID=4326;POINT(-98.1665766892 19.0720751882),19.07207519,-98.16657669,12:32,SN-29-824,,Sales & delivery,Light truck or Van,1,no,Produce (fruits & vegetables),https://web.fulcrumapp.com/photos/view?photos=296cea02-ed2f-4abb-a559-d405a81adc9f,12:34,Street - next to the curbside,no,no,Rear,0,,no,no,,no,no,
+c43d8722-97dc-4750-8d11-e1922aef3f7e,"2218–2234 Calle Cordillera Central
+Puebla de Zaragoza PUE 72220
+MX",2022-11-09 18:34:06 UTC,Eduardo Zárate,SRID=4326;POINT(-98.166975953 19.071961034),19.07196103,-98.16697595,12:24,WZ-5819-A,,Delivery,Light truck or Van,2,yes,Hielo,https://web.fulcrumapp.com/photos/view?photos=3da838d7-d886-4717-872d-7a06259a312e,12:25,Street - next to the curbside,no,no,Side,1,,no,no,,no,no,
+ea61b3cb-ddd8-4400-a17b-22f183d60223,"9002–9026 Avenida Montes Urales
+Puebla de Zaragoza PUE 72220
+MX",2022-11-09 18:13:31 UTC,Pedro Contreras,SRID=4326;POINT(-98.1667017056 19.071999466),19.07199947,-98.16670171,12:04,9.61E+05,JUMEX,Sales & delivery,Motorcycle,1,no,"""Non-alcoholic beverages (water, soda, etc.)""",https://web.fulcrumapp.com/photos/view?photos=bf7f759b-5dc2-45fd-aa68-3a10fdeb5986,12:05,Street - next to the curbside,no,no,Side,0,,no,no,,no,no,
+ae8ea7eb-e3f3-4d44-926e-6205f04cf6e5,"8811A Avenida Montes Urales
+Puebla de Zaragoza PUE 72220
+MX",2022-11-09 18:08:28 UTC,Diego Galicia Lugo,SRID=4326;POINT(-98.1677300391 19.0706946049),19.0706946,-98.16773004,11:47,SN-29-117,Pringles,Sales & delivery,SUV,1,no,"Chips,Nonfood",https://web.fulcrumapp.com/photos/view?photos=d00d6154-c143-4d0b-a7d3-3f9f5b5ed94c,11:50,Street - next to the curbside,no,no,Rear,0,1,yes,no,,no,no,
+0175f6b2-5e39-4d17-be7b-5f22ce81d18a,"2034B Calle Cordillera de los Alpes
+Heroica Puebla de Zaragoza Puebla 72220
+México",2022-11-09 17:39:27 UTC,Alejandro Matias,SRID=4326;POINT(-98.1676052 19.0754693),19.0754693,-98.1676052,10:45,XY-38-302,Pepsi,Sales & delivery,Heavy duty truck,2,no,"""Non-alcoholic beverages (water, soda, etc.)""",https://web.fulcrumapp.com/photos/view?photos=f44977ec-0293-43de-b692-d666538fcdfb,11:10,Street - next to the curbside,no,no,Side,0,,yes,no,,no,no,
+761b4bb0-19e3-4bd1-bd86-3f09f7c2d894,"9022 Sierra Morena
+Heroica Puebla de Zaragoza Puebla 72220
+México",2022-11-09 17:39:26 UTC,Alejandro Matias,SRID=4326;POINT(-98.1656903 19.0724087),19.0724087,-98.1656903,10:44,SN-17-510,Danone,Sales & delivery,Light truck or Van,1,yes,"""Dairy (milk, cheese, etc.)""",https://web.fulcrumapp.com/photos/view?photos=ddf0e5f5-d10d-4fe8-8365-191a67ee1c58,10:47,Street - next to the curbside,no,no,Rear,0,,no,no,,no,no,
+8ae3f454-a90d-4b89-be8c-c5a3e165cab8,"2421 Cord. del Pindo
+Heroica Puebla de Zaragoza Puebla 72220
+México",2022-11-09 17:39:26 UTC,Alejandro Matias,SRID=4326;POINT(-98.1667233 19.0701709),19.0701709,-98.1667233,10:23,No,Coca Cola,Delivery,Heavy duty truck,2,no,"""Dairy (milk, cheese, etc.)""",https://web.fulcrumapp.com/photos/view?photos=709d76d0-6152-4009-bb36-c768dbdfefdc,10:30,Street - next to the curbside,no,no,Side,1,,yes,no,,no,no,
+11dfd3f0-8a5d-4d2a-b2b9-570781fc9dbe,"9002 Avenida Montes Urales
+Heroica Puebla de Zaragoza Puebla 72220
+México",2022-11-09 17:39:25 UTC,Alejandro Matias,SRID=4326;POINT(-98.166637 19.0718907),19.0718907,-98.166637,09:37,23J 237,Lala,Delivery,Light truck or Van,1,yes,"""Dairy (milk, cheese, etc.)""",https://web.fulcrumapp.com/photos/view?photos=8433af3d-c700-40f3-8c36-881d83b173a0,09:49,Street - next to the curbside,no,no,Rear,0,,no,no,,no,no,
+db46f0d4-590e-415f-9a36-fd4c105055c5,"Avenida Unidad Deportiva
+Puebla de Zaragoza PUE 72220
+MX",2022-11-09 17:27:16 UTC,Pedro Contreras,SRID=4326;POINT(-98.1643093243 19.0733588603),19.07335886,-98.16430932,11:24,TZW-91-27,NONE,Sales & delivery,Automobile,1,no,"""Non-alcoholic beverages (water, soda, etc.)""",https://web.fulcrumapp.com/photos/view?photos=241cfbf3-d075-4627-a43a-cde8401c812c,11:25,Street - next to the curbside,no,no,Rear,0,,no,no,,no,no,
+10d9ef84-7845-4d25-883d-e403a4fcd2ed,"2404 Calle Cordillera de los Balcanes
+Puebla de Zaragoza PUE 72220
+MX",2022-11-09 16:51:26 UTC,Pedro Contreras,SRID=4326;POINT(-98.1659305166 19.0726300372),19.07263004,-98.16593052,10:44,TE-5804-G,La Costeña,Delivery,Light truck or Van,1,no,"Nonfood,Other",https://web.fulcrumapp.com/photos/view?photos=1c992be7-6d86-4f19-a44c-871b62378f3f,10:46,Street - next to the curbside,no,no,Side,0,,no,no,,no,no,
+547b7345-f8ac-4b79-838b-f8da6bdd2f86,"9053–9057 Avenida Montes Urales
+Puebla de Zaragoza PUE 72220
+MX",2022-11-09 16:30:44 UTC,Eduardo Zárate,SRID=4326;POINT(-98.1653153945 19.073614697),19.0736147,-98.16531539,10:18,SN-29-117,Crunch-It,Delivery,Pick-up,1,no,"""Bakery (bread, cookies, cakes, etc.)""",https://web.fulcrumapp.com/photos/view?photos=51498804-7b45-4aeb-b677-6a31427a5c5f,10:19,Street - next to the curbside,no,no,Rear,1,,no,no,,no,no,
+c945b9ea-fa24-44f9-bc41-dc0fd492164b,"9053–9057 Avenida Montes Urales
+Puebla de Zaragoza PUE 72220
+MX",2022-11-09 16:30:44 UTC,Eduardo Zárate,SRID=4326;POINT(-98.1652930197 19.0736508138),19.07365081,-98.16529302,10:16,23J-237,LaLa,Delivery,Light truck or Van,2,yes,"""Dairy (milk, cheese, etc.)""",https://web.fulcrumapp.com/photos/view?photos=68f7e322-bea4-4665-9ad9-0ecd3d3e858f,10:27,Street - next to the curbside,no,no,Rear,1,,no,no,,no,no,
+b267f7e4-5e7e-4a27-85ea-0ca4b25f9a87,"2404 Calle Cordillera Central
+Puebla de Zaragoza PUE 72220
+MX",2022-11-09 15:42:16 UTC,Eduardo Zárate,SRID=4326;POINT(-98.1667056879 19.071857551),19.07185755,-98.16670569,09:36,SN-17-510,Danone,Delivery,Light truck or Van,1,yes,"""Dairy (milk, cheese, etc.)""",https://web.fulcrumapp.com/photos/view?photos=4565a601-6eca-492e-87f4-ac3c31123969,09:46,Street - next to the curbside,no,no,Rear,0,,no,no,,no,no,
+0c549067-d6d6-4137-bf3c-7abbe6c44901,"84 Avenida Teziutlán Norte
+Puebla de Zaragoza PUE 72160
+MX",2022-11-07 22:41:09 UTC,Jorge Alberto Ostorga Flores,SRID=4326;POINT(-98.2254263603 19.0581423267),19.05814233,-98.22542636,15:15,SM46579,no,Delivery,Pick-up,2,no,Produce (fruits & vegetables),https://web.fulcrumapp.com/photos/view?photos=7d9195db-5b27-4b42-ada3-59cf3bce75f8,15:32,Street - next to the curbside,no,no,Rear,1,,yes,no,,no,no,
+0390c1cf-cd81-423e-8c9d-fdf2d4fca170,"6 Avenida 5 Poniente
+Puebla PUE 72000
+MX",2022-11-03 17:54:57 UTC,José Oropeza,SRID=4326;POINT(-98.2005907028 19.0435135414),19.04351354,-98.2005907,11:32,TTV-378-A,,Delivery,Automobile,1,no,Produce (fruits & vegetables),https://web.fulcrumapp.com/photos/view?photos=b46cc2aa-00a1-4243-b765-6c4f5eca885d,11:35,Street - next to the curbside,no,no,Rear,0,,no,no,,no,no,
+c6487edc-4e83-4879-8587-69290726749a,,2022-11-03 17:54:57 UTC,José Oropeza,SRID=4326;POINT(-98.1959056349 19.0441463323),19.04414633,-98.19590563,10:55,SP-38-651,,Delivery,Light truck or Van,2,no,Junk food,https://web.fulcrumapp.com/photos/view?photos=790e866b-8830-498c-a439-4b93f72960f2,11:15,Street - next to the curbside,no,no,Rear,1,,no,no,,no,no,
+f964004e-67a0-4b75-b2b0-ce04b9f0b344,,2022-11-03 17:54:56 UTC,José Oropeza,SRID=4326;POINT(-98.194933077 19.043612116),19.04361212,-98.19493308,10:36,HL-3785-F,,Delivery,Light truck or Van,1,no,"""Bakery (bread, cookies, cakes, etc.)""",https://web.fulcrumapp.com/photos/view?photos=2081172c-5f22-42d8-9524-da21c5b20f7b,11:00,Street - next to the curbside,no,no,Rear,0,,no,no,,no,no,
+5656a189-19f5-45a7-b53b-1a3db0de6571,,2022-11-03 17:54:56 UTC,José Oropeza,SRID=4326;POINT(-98.1948560508 19.0436070826),19.04360708,-98.19485605,10:33,SP-29-798,,Delivery,Light truck or Van,1,no,"""Bakery (bread, cookies, cakes, etc.)""",https://web.fulcrumapp.com/photos/view?photos=432e2910-5129-476d-8d4f-cb4bca0f74c0,10:50,Street - next to the curbside,no,no,Side,0,,no,no,,no,no,
+bcbd462b-4c63-490b-bfec-0ef6657ead73,"406-B Avenida 2 Oriente
+Puebla PUE 72000
+MX",2022-11-03 17:54:44 UTC,Emilio Garza,SRID=4326;POINT(-98.1945033093 19.043335537),19.04333554,-98.19450331,11:19,05-AP-6G,Infra,Delivery,Light truck or Van,1,no,Gas,https://web.fulcrumapp.com/photos/view?photos=216d8c30-e7b2-487d-a89b-f2282894f790,11:21,Street - next to the curbside,no,no,Rear,1,,no,no,,no,no,
+cd9ba76d-d899-4d87-9512-486aedb1b149,"402E Avenida 2 Oriente
+Puebla PUE 72000
+MX",2022-11-03 17:14:09 UTC,Emilio Garza,SRID=4326;POINT(-98.1948728731 19.0435760418),19.04357604,-98.19487287,11:03,LE-88-707,Alpura ,Delivery,Pick-up,2,yes,"""Dairy (milk, cheese, etc.)""",https://web.fulcrumapp.com/photos/view?photos=1ff24d89-7c85-4ccb-accf-7787effa3dbb,11:04,Street - next to the curbside,no,no,Rear,0,,no,no,,no,no,
+657541f6-7871-4165-80b2-bef59db83e18,"402 Avenida 2 Oriente
+Puebla PUE 72000
+MX",2022-11-03 17:14:09 UTC,Emilio Garza,SRID=4326;POINT(-98.1949010531 19.043589516),19.04358952,-98.19490105,11:00,HL-3785-F,Bimbo,Delivery,Pick-up,2,no,"""Bakery (bread, cookies, cakes, etc.)"",Produce (fruits & vegetables)",https://web.fulcrumapp.com/photos/view?photos=5080470b-b7fa-4017-8066-ea5cd938bbfd,11:08,Street - next to the curbside,yes,no,Rear,1,,no,no,,no,no,
